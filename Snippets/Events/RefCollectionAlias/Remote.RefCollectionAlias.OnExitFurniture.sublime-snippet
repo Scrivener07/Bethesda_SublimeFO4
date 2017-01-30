@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onexitfurniture-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnExitFurniture</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnExitFurniture(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onconsciousnessstatechanged-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnConsciousnessStateChanged</description>
+
+    <content><![CDATA[Event OnConsciousnessStateChanged(ObjectReference akSender, bool abUnconscious )
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>while</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>While Loop Snippet</description>
+	<content><![CDATA[While (${1:$SELECTION})
+	${0}
+EndWhile]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondistancegreaterthan</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnDistanceGreaterThan</description>
+
+    <content><![CDATA[Event OnDistanceGreaterThan(ObjectReference akObj1, ObjectReference akObj2, float afDistance)
+    ${0}
+EndEvent]]></content>
+</snippet>

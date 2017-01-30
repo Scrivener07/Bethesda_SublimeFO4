@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryintimidatenpc</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryIntimidateNPC</description>
+
+    <content><![CDATA[Event OnStoryIntimidateNPC(ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

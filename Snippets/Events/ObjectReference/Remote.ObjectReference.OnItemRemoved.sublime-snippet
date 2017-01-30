@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemremoved-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnItemRemoved</description>
+
+    <content><![CDATA[Event ObjectReference.OnItemRemoved(ObjectReference akSender, Form akBaseItem, int aiItemCount, ObjectReference akItemReference, ObjectReference akDestContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

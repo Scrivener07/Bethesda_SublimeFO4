@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onspellcast-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnSpellCast</description>
+
+    <content><![CDATA[Event OnSpellCast(ObjectReference akSender, Form akSpell)
+    ${0}
+EndEvent]]></content>
+</snippet>

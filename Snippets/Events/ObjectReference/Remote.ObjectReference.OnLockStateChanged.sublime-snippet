@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlockstatechanged-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnLockStateChanged</description>
+
+    <content><![CDATA[Event ObjectReference.OnLockStateChanged(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

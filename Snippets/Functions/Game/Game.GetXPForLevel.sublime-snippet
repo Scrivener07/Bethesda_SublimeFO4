@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getxpforlevel</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.GetXPForLevel(${1:int auiLevel})${0}]]></content>
+</snippet>

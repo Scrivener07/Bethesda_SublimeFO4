@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>openinventory</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[OpenInventory(${1:bool abForceOpen = false})${0}]]></content>
+</snippet>

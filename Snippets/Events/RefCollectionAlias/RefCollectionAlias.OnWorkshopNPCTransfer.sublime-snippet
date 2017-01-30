@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopnpctransfer-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnWorkshopNPCTransfer</description>
+
+    <content><![CDATA[Event OnWorkshopNPCTransfer(ObjectReference akSender, Location akNewWorkshop, Keyword akActionKW)
+    ${0}
+EndEvent]]></content>
+</snippet>

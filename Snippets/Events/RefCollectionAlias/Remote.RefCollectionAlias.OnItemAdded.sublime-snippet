@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemadded-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnItemAdded</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnItemAdded(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Form akBaseItem, int aiItemCount, ObjectReference akItemReference, ObjectReference akSourceContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstoryaddtoplayer-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryAddToPlayer</description>
+
+    <content><![CDATA[Event Quest.OnStoryAddToPlayer(Quest akSender, ObjectReference akOwner, ObjectReference akContainer, Location akLocation, Form akItemBase, \
+  int aiAcquireType)
+    ${0}
+EndEvent]]></content>
+</snippet>

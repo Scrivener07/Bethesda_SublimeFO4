@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>waitgametime</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Utility</description>
+
+    <content><![CDATA[Utility.WaitGameTime(${1:float afHours})${0}]]></content>
+</snippet>

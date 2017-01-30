@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerswimming-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerSwimming</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerSwimming(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

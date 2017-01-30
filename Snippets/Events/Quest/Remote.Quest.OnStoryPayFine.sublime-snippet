@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypayfine-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryPayFine</description>
+
+    <content><![CDATA[Event Quest.OnStoryPayFine(Quest akSender, ObjectReference akCriminal, ObjectReference akGuard, Form akCrimeGroup, int aiCrimeGold)
+    ${0}
+EndEvent]]></content>
+</snippet>

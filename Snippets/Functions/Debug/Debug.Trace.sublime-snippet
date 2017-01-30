@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>trace</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Debug</description>
+
+    <content><![CDATA[Debug.Trace(${1:string asTextToPrint}, ${2:int aiSeverity = 0})${0}]]></content>
+</snippet>

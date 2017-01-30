@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemunequipped-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnItemUnequipped</description>
+
+    <content><![CDATA[Event Actor.OnItemUnequipped(Actor akSender, Form akBaseObject, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

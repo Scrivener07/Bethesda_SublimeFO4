@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlockstatechanged-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnLockStateChanged</description>
+
+    <content><![CDATA[Event OnLockStateChanged(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

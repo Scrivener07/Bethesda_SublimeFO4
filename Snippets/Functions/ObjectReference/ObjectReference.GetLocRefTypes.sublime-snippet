@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getlocreftypes</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[GetLocRefTypes()${0}]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>registerforanimationevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[RegisterForAnimationEvent(${1:ObjectReference akSender}, ${2:string asEventName})${0}]]></content>
+</snippet>

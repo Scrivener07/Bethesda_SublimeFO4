@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondeferredkill</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnDeferredKill</description>
+
+    <content><![CDATA[Event OnDeferredKill(Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

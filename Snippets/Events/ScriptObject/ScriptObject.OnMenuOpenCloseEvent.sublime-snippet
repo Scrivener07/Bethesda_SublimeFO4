@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onmenuopencloseevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnMenuOpenCloseEvent</description>
+
+    <content><![CDATA[Event OnMenuOpenCloseEvent(string asMenuName, bool abOpening)
+    ${0}
+EndEvent]]></content>
+</snippet>

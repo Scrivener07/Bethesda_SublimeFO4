@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerentervertibird-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPlayerEnterVertibird</description>
+
+    <content><![CDATA[Event OnPlayerEnterVertibird(ObjectReference akSender, ObjectReference akVertibird)
+    ${0}
+EndEvent]]></content>
+</snippet>

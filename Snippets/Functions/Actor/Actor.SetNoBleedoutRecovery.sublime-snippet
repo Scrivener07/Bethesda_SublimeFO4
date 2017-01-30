@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setnobleedoutrecovery</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetNoBleedoutRecovery(${1:bool abAllowed})${0}]]></content>
+</snippet>

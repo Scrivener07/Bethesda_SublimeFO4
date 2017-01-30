@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onspeechchallengeavailable-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnSpeechChallengeAvailable</description>
+
+    <content><![CDATA[Event OnSpeechChallengeAvailable(ObjectReference akSender, ObjectReference akSpeaker)
+    ${0}
+EndEvent]]></content>
+</snippet>

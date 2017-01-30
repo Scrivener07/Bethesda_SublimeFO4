@@ -1,0 +1,6 @@
+<snippet>
+    <tabTrigger>prop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Auto Property Snippet</description>
+    <content><![CDATA[${1:type} Property ${2:PropertyName}${0} Auto ${3:Const} ${4:Mandatory}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycastmagic-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryCastMagic</description>
+
+    <content><![CDATA[Event Quest.OnStoryCastMagic(Quest akSender, ObjectReference akCastingActor, ObjectReference akSpellTarget, Location akLocation, Form akSpell)
+    ${0}
+EndEvent]]></content>
+</snippet>

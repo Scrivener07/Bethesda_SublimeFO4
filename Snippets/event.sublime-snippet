@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>event</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Snippet</description>
+
+	<content><![CDATA[Event ${1:EventName}(${2:params})
+	${0}
+EndEvent]]></content>
+</snippet>

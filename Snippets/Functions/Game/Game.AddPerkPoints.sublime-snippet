@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>addperkpoints</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.AddPerkPoints(${1:int aiPerkPoints})${0}]]></content>
+</snippet>

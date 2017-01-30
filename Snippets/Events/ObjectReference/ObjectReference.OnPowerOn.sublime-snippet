@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpoweron</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnPowerOn</description>
+
+    <content><![CDATA[Event OnPowerOn(ObjectReference akPowerGenerator)
+    ${0}
+EndEvent]]></content>
+</snippet>

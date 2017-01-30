@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isfurnitureinuse</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[IsFurnitureInUse(${1:bool abIgnoreReserved = false})${0}]]></content>
+</snippet>

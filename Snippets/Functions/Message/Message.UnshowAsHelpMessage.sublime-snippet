@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unshowashelpmessage</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Message</description>
+
+    <content><![CDATA[UnshowAsHelpMessage()${0}]]></content>
+</snippet>

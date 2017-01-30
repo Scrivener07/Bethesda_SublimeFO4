@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>findallreferencesoftype</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[FindAllReferencesOfType(${1:Form arObjectOrList}, ${2:float afRadius})${0}]]></content>
+</snippet>

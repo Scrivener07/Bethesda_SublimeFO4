@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpoweroff-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPowerOff</description>
+
+    <content><![CDATA[Event OnPowerOff(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onhit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnHit</description>
+
+    <content><![CDATA[Event OnHit(ObjectReference akTarget, ObjectReference akAggressor, Form akSource, Projectile akProjectile, bool abPowerAttack, \
+  bool abSneakAttack, bool abBashAttack, bool abHitBlocked, string apMaterial)
+    ${0}
+EndEvent]]></content>
+</snippet>

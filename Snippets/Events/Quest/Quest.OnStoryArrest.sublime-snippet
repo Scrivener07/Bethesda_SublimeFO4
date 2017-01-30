@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryarrest</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryArrest</description>
+
+    <content><![CDATA[Event OnStoryArrest(ObjectReference akArrestingGuard, ObjectReference akCriminal, Location akLocation, int aiCrime)
+    ${0}
+EndEvent]]></content>
+</snippet>

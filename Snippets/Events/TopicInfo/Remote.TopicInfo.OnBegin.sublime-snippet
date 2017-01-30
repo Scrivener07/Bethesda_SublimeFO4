@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onbegin-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote TopicInfo.OnBegin</description>
+
+    <content><![CDATA[Event TopicInfo.OnBegin(TopicInfo akSender, ObjectReference akSpeakerRef, bool abHasBeenSaid)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>showtrainingmenu</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.ShowTrainingMenu(${1:Actor aActor})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontriggerenter-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnTriggerEnter</description>
+
+    <content><![CDATA[Event OnTriggerEnter(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

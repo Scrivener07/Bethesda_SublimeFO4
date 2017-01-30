@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setdoganimarchetypeplayful</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetDogAnimArchetypePlayful()${0}]]></content>
+</snippet>

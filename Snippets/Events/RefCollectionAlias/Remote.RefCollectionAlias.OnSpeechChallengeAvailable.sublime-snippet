@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onspeechchallengeavailable-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnSpeechChallengeAvailable</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnSpeechChallengeAvailable(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akSpeaker)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onspeechchallengeavailable-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnSpeechChallengeAvailable</description>
+
+    <content><![CDATA[Event Actor.OnSpeechChallengeAvailable(Actor akSender, ObjectReference akSpeaker)
+    ${0}
+EndEvent]]></content>
+</snippet>

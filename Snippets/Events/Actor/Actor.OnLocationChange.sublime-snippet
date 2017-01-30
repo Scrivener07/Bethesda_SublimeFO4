@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationchange</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnLocationChange</description>
+
+    <content><![CDATA[Event OnLocationChange(Location akOldLoc, Location akNewLoc)
+    ${0}
+EndEvent]]></content>
+</snippet>

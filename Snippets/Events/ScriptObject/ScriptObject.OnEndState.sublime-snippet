@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onendstate</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnEndState</description>
+
+    <content><![CDATA[Event OnEndState(string asNewState)
+    ${0}
+EndEvent]]></content>
+</snippet>

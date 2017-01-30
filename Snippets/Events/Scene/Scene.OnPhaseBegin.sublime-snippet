@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onphasebegin</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Scene.OnPhaseBegin</description>
+
+    <content><![CDATA[Event OnPhaseBegin(int auiPhaseIndex)
+    ${0}
+EndEvent]]></content>
+</snippet>

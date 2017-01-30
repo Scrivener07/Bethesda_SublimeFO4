@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onopen-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnOpen</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnOpen(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

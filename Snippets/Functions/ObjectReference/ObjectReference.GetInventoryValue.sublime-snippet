@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getinventoryvalue</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[GetInventoryValue()${0}]]></content>
+</snippet>

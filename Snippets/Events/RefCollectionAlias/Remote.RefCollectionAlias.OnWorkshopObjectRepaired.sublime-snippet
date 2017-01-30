@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectrepaired-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnWorkshopObjectRepaired</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnWorkshopObjectRepaired(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getvoicetype</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[GetVoiceType()${0}]]></content>
+</snippet>

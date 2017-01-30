@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodecompletecommand</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnCommandModeCompleteCommand</description>
+
+    <content><![CDATA[Event OnCommandModeCompleteCommand(int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

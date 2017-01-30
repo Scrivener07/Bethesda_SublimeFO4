@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>pex</string>
+	</array>
+	<key>name</key>
+	<string>Compiled PapyrusF4</string>
+	<key>patterns</key>
+	<array>
+	</array>
+	<key>scopeName</key>
+	<string>source.compiled-papyrusf4</string>
+	<key>uuid</key>
+	<string>def59343-7ab0-40b8-b9de-3f05a7d4fa2b</string>
+</dict>
+</plist>

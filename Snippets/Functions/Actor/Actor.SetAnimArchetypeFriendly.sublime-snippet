@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setanimarchetypefriendly</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetAnimArchetypeFriendly()${0}]]></content>
+</snippet>

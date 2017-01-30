@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycastmagic</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryCastMagic</description>
+
+    <content><![CDATA[Event OnStoryCastMagic(ObjectReference akCastingActor, ObjectReference akSpellTarget, Location akLocation, Form akSpell)
+    ${0}
+EndEvent]]></content>
+</snippet>

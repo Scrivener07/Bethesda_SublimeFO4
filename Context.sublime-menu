@@ -1,0 +1,45 @@
+[
+	{	
+		"caption": "-",
+		"id": "separator"
+	},
+	{
+		"caption": "PapyrusF4",
+		"id": "papyrusf4menu",
+		"children":
+		[
+			{
+				"command": "papyrus_f4_wiki_documentation",
+				"caption": "Wiki Documentation"
+			},
+			{	
+				"caption": "-",
+				"id": "separator"
+			},
+			{
+		        "caption": "Perforce: View Old Revision",
+		        "command": "papyrus_f4_view_old_revision"
+		    },
+		    {
+		        "caption": "Perforce: Diff Against Repository",
+		        "command": "papyrus_f4_diff_against_perforce"
+		    },
+		    {
+		        "caption": "Perforce: Diff Against Old Revision",
+		        "command": "papyrus_f4_diff_old_revision"
+		    },
+		    {	
+				"caption": "-",
+				"id": "separator"
+			},
+		    {
+		        "caption": "Create default INI file",
+		        "command": "papyrus_f4_create_default_settings_file"
+		    }
+		]
+	},
+	{	
+		"caption": "-",
+		"id": "separator"
+	}
+]

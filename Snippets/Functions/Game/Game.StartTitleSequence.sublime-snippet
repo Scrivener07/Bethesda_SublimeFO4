@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>starttitlesequence</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.StartTitleSequence(${1:string asSequenceName})${0}]]></content>
+</snippet>

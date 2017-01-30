@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>modvalue</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[ModValue(${1:ActorValue akAV}, ${2:float afAmount})${0}]]></content>
+</snippet>

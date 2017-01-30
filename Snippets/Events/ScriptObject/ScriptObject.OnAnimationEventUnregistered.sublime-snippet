@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onanimationeventunregistered</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnAnimationEventUnregistered</description>
+
+    <content><![CDATA[Event OnAnimationEventUnregistered(ObjectReference akSource, string asEventName)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryservedtime</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryServedTime</description>
+
+    <content><![CDATA[Event OnStoryServedTime(Location akLocation, Form akCrimeGroup, int aiCrimeGold, int aiDaysJail)
+    ${0}
+EndEvent]]></content>
+</snippet>

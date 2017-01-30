@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isfavoritesenabled</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[IsFavoritesEnabled()${0}]]></content>
+</snippet>

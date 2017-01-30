@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongrab-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnGrab</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnGrab(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

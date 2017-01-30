@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onrelease-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnRelease</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnRelease(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

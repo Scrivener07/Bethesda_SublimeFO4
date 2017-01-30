@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onunload-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnUnload</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnUnload(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

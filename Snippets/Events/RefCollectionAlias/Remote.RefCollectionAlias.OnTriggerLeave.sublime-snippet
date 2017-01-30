@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontriggerleave-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnTriggerLeave</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnTriggerLeave(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

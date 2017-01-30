@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryactorattach-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryActorAttach</description>
+
+    <content><![CDATA[Event Quest.OnStoryActorAttach(Quest akSender, ObjectReference akActor, Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

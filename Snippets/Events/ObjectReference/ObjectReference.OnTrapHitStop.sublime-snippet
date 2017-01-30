@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontraphitstop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnTrapHitStop</description>
+
+    <content><![CDATA[Event OnTrapHitStop(ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

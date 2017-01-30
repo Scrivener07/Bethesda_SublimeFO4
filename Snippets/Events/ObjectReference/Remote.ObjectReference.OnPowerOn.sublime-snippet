@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpoweron-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnPowerOn</description>
+
+    <content><![CDATA[Event ObjectReference.OnPowerOn(ObjectReference akSender, ObjectReference akPowerGenerator)
+    ${0}
+EndEvent]]></content>
+</snippet>

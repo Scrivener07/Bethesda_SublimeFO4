@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationcleared-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Location.OnLocationCleared</description>
+
+    <content><![CDATA[Event Location.OnLocationCleared(Location akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

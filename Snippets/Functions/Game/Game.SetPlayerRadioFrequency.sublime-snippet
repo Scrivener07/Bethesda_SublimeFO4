@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setplayerradiofrequency</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.SetPlayerRadioFrequency(${1:float afFrequency})${0}]]></content>
+</snippet>

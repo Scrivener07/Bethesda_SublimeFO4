@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setcleared</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Location</description>
+
+    <content><![CDATA[SetCleared(${1:bool abCleared = true})${0}]]></content>
+</snippet>

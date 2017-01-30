@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaliasreset-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Alias.OnAliasReset</description>
+
+    <content><![CDATA[Event Alias.OnAliasReset(Alias akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

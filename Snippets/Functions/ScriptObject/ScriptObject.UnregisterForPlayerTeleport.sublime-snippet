@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unregisterforplayerteleport</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[UnregisterForPlayerTeleport()${0}]]></content>
+</snippet>

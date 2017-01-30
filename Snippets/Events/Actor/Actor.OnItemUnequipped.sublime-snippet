@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemunequipped</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnItemUnequipped</description>
+
+    <content><![CDATA[Event OnItemUnequipped(Form akBaseObject, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

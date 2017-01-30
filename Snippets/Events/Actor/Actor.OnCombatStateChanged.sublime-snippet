@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncombatstatechanged</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnCombatStateChanged</description>
+
+    <content><![CDATA[Event OnCombatStateChanged(Actor akTarget, int aeCombatState)
+    ${0}
+EndEvent]]></content>
+</snippet>

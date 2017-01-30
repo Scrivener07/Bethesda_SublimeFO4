@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfireweapon-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerFireWeapon</description>
+
+    <content><![CDATA[Event Actor.OnPlayerFireWeapon(Actor akSender, Form akBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

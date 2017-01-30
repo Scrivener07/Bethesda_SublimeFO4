@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpickpocketfailed-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPickpocketFailed</description>
+
+    <content><![CDATA[Event Actor.OnPickpocketFailed(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

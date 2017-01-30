@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onload-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnLoad</description>
+
+    <content><![CDATA[Event ObjectReference.OnLoad(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

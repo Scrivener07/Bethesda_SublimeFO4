@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oneffectfinish</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ActiveMagicEffect.OnEffectFinish</description>
+
+    <content><![CDATA[Event OnEffectFinish(Actor akTarget, Actor akCaster)
+    ${0}
+EndEvent]]></content>
+</snippet>

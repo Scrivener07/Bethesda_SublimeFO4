@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>group</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Group Snippet</description>
+
+	<content><![CDATA[Group ${1:GroupName}
+	${0}
+EndGroup]]></content>
+</snippet>

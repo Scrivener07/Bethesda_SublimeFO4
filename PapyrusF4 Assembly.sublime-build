@@ -1,0 +1,5 @@
+{
+	"target": "assemble_papyrus_f4",
+	"cmd": "$file",
+	"selector": "source.papyrusf4-assembly"
+}

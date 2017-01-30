@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onclose-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnClose</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnClose(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

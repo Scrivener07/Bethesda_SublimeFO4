@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodecompletecommand-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCommandModeCompleteCommand</description>
+
+    <content><![CDATA[Event OnCommandModeCompleteCommand(ObjectReference akSender, int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

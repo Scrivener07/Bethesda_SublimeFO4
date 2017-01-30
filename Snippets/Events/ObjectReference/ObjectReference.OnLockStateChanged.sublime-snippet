@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlockstatechanged</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnLockStateChanged</description>
+
+    <content><![CDATA[Event OnLockStateChanged()
+    ${0}
+EndEvent]]></content>
+</snippet>

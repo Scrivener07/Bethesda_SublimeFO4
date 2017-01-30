@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getformid</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Form</description>
+
+    <content><![CDATA[GetFormID()${0}]]></content>
+</snippet>

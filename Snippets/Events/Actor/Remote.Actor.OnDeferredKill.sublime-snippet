@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondeferredkill-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnDeferredKill</description>
+
+    <content><![CDATA[Event Actor.OnDeferredKill(Actor akSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

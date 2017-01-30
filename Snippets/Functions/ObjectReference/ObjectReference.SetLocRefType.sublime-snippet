@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setlocreftype</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[SetLocRefType(${1:Location akLoc}, ${2:LocationRefType akRefType})${0}]]></content>
+</snippet>

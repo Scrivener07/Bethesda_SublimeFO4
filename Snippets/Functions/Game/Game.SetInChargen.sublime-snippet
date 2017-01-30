@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setinchargen</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.SetInChargen(${1:bool abDisableSaving}, ${2:bool abDisableWaiting}, ${3:bool abShowControlsDisabledMessage})${0}]]></content>
+</snippet>

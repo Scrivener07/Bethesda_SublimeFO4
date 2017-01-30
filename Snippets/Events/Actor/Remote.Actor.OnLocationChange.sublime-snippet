@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationchange-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnLocationChange</description>
+
+    <content><![CDATA[Event Actor.OnLocationChange(Actor akSender, Location akOldLoc, Location akNewLoc)
+    ${0}
+EndEvent]]></content>
+</snippet>

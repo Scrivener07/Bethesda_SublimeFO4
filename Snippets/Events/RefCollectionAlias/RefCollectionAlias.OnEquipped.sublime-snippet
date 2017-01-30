@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onequipped-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnEquipped</description>
+
+    <content><![CDATA[Event OnEquipped(ObjectReference akSender, Actor akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

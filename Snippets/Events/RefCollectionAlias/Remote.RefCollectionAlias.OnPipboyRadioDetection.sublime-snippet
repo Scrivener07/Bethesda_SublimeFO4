@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpipboyradiodetection-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPipboyRadioDetection</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPipboyRadioDetection(RefCollectionAlias akAliasSender, ObjectReference akRefSender, bool abDetected)
+    ${0}
+EndEvent]]></content>
+</snippet>

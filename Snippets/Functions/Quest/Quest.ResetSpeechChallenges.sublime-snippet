@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>resetspeechchallenges</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Quest</description>
+
+    <content><![CDATA[ResetSpeechChallenges()${0}]]></content>
+</snippet>

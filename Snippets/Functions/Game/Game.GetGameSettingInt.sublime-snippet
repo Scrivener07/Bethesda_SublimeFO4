@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getgamesettingint</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.GetGameSettingInt(${1:string asGameSetting})${0}]]></content>
+</snippet>

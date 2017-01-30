@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaction</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Scene.OnAction</description>
+
+    <content><![CDATA[Event OnAction(int auiActionID, ReferenceAlias akAlias)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onclose</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnClose</description>
+
+    <content><![CDATA[Event OnClose(ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

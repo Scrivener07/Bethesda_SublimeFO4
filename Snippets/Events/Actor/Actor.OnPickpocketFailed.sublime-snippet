@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpickpocketfailed</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPickpocketFailed</description>
+
+    <content><![CDATA[Event OnPickpocketFailed()
+    ${0}
+EndEvent]]></content>
+</snippet>

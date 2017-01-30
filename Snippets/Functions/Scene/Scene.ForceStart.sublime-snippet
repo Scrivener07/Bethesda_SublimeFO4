@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>forcestart</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Scene</description>
+
+    <content><![CDATA[ForceStart()${0}]]></content>
+</snippet>

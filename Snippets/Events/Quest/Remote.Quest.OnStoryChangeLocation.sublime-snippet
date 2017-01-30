@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorychangelocation-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryChangeLocation</description>
+
+    <content><![CDATA[Event Quest.OnStoryChangeLocation(Quest akSender, ObjectReference akActor, Location akOldLocation, Location akNewLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

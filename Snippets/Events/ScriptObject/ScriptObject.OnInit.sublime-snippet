@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oninit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnInit</description>
+
+    <content><![CDATA[Event OnInit()
+    ${0}
+EndEvent]]></content>
+</snippet>

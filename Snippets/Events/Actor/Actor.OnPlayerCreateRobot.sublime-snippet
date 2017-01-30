@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayercreaterobot</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerCreateRobot</description>
+
+    <content><![CDATA[Event OnPlayerCreateRobot(Actor akNewRobot)
+    ${0}
+EndEvent]]></content>
+</snippet>

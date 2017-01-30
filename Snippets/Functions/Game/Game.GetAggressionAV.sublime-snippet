@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getaggressionav</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.GetAggressionAV()${0}]]></content>
+</snippet>

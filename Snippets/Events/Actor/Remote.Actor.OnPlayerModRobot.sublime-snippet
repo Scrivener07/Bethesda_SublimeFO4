@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayermodrobot-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerModRobot</description>
+
+    <content><![CDATA[Event Actor.OnPlayerModRobot(Actor akSender, Actor akRobot, ObjectMod akModBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

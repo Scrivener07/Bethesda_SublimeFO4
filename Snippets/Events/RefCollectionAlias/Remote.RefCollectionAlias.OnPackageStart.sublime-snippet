@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpackagestart-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPackageStart</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPackageStart(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Package akNewPackage)
+    ${0}
+EndEvent]]></content>
+</snippet>

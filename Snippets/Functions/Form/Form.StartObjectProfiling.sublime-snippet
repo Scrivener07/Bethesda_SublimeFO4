@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>startobjectprofiling</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Form</description>
+
+    <content><![CDATA[StartObjectProfiling()${0}]]></content>
+</snippet>

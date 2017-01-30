@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>issamelocation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Location</description>
+
+    <content><![CDATA[IsSameLocation(${1:Location akOtherLocation}, ${2:Keyword akKeyword = None})${0}]]></content>
+</snippet>

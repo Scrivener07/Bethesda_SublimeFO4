@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstageset</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStageSet</description>
+
+    <content><![CDATA[Event OnStageSet(int auiStageID, int auiItemID)
+    ${0}
+EndEvent]]></content>
+</snippet>

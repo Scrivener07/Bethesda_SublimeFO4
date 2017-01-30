@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncellattach-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCellAttach</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCellAttach(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

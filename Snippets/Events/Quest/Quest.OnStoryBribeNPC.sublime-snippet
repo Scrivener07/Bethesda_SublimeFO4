@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorybribenpc</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryBribeNPC</description>
+
+    <content><![CDATA[Event OnStoryBribeNPC(ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

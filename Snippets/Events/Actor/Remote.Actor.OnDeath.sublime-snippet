@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondeath-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnDeath</description>
+
+    <content><![CDATA[Event Actor.OnDeath(Actor akSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

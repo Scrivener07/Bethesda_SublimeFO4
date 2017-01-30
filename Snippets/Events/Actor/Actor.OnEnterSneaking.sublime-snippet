@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onentersneaking</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnEnterSneaking</description>
+
+    <content><![CDATA[Event OnEnterSneaking()
+    ${0}
+EndEvent]]></content>
+</snippet>

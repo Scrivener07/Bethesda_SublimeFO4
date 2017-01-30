@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongrab-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnGrab</description>
+
+    <content><![CDATA[Event ObjectReference.OnGrab(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

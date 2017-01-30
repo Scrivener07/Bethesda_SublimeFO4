@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryironsights</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryIronSights</description>
+
+    <content><![CDATA[Event OnStoryIronSights(ObjectReference akActor, Form akWeapon)
+    ${0}
+EndEvent]]></content>
+</snippet>

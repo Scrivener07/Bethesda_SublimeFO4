@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncelldetach-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCellDetach</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCellDetach(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

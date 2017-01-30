@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorylocationloaded</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryLocationLoaded</description>
+
+    <content><![CDATA[Event OnStoryLocationLoaded(Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

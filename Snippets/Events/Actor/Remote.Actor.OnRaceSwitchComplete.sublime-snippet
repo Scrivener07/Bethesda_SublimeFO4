@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onraceswitchcomplete-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnRaceSwitchComplete</description>
+
+    <content><![CDATA[Event Actor.OnRaceSwitchComplete(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

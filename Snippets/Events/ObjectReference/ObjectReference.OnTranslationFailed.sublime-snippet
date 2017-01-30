@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontranslationfailed</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnTranslationFailed</description>
+
+    <content><![CDATA[Event OnTranslationFailed()
+    ${0}
+EndEvent]]></content>
+</snippet>

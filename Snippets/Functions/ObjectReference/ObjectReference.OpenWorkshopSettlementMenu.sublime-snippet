@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>openworkshopsettlementmenu</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[OpenWorkshopSettlementMenu(${1:Keyword akActionKW}, ${2:Message astrConfirm = None}, ${3:Location aLocToHighlight = None})${0}]]></content>
+</snippet>

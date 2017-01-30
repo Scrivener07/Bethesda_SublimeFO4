@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeenter-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCommandModeEnter</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCommandModeEnter(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

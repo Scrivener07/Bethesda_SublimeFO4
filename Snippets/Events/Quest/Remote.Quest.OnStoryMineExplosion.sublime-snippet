@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorymineexplosion-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryMineExplosion</description>
+
+    <content><![CDATA[Event Quest.OnStoryMineExplosion(Quest akSender, ObjectReference akVictim, ObjectReference akAttacker)
+    ${0}
+EndEvent]]></content>
+</snippet>

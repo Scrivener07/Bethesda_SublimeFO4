@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerswimming-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerSwimming</description>
+
+    <content><![CDATA[Event Actor.OnPlayerSwimming(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

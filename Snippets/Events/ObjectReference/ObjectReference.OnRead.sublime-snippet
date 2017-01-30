@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onread</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnRead</description>
+
+    <content><![CDATA[Event OnRead()
+    ${0}
+EndEvent]]></content>
+</snippet>

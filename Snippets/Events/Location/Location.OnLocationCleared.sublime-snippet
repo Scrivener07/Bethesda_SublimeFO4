@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationcleared</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Location.OnLocationCleared</description>
+
+    <content><![CDATA[Event OnLocationCleared()
+    ${0}
+EndEvent]]></content>
+</snippet>

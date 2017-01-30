@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorymineexplosion</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryMineExplosion</description>
+
+    <content><![CDATA[Event OnStoryMineExplosion(ObjectReference akVictim, ObjectReference akAttacker)
+    ${0}
+EndEvent]]></content>
+</snippet>

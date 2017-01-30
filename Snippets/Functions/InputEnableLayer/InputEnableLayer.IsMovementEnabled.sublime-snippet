@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>ismovementenabled</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[IsMovementEnabled()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeexit-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCommandModeExit</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCommandModeExit(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

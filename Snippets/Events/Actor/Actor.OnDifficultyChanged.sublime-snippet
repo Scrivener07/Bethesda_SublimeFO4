@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondifficultychanged</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnDifficultyChanged</description>
+
+    <content><![CDATA[Event OnDifficultyChanged(int aOldDifficulty, int aNewDifficulty)
+    ${0}
+EndEvent]]></content>
+</snippet>

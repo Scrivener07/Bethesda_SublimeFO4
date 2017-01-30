@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectdestroyed-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnWorkshopObjectDestroyed</description>
+
+    <content><![CDATA[Event ObjectReference.OnWorkshopObjectDestroyed(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onopen</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnOpen</description>
+
+    <content><![CDATA[Event OnOpen(ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

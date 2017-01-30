@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setally</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Faction</description>
+
+    <content><![CDATA[SetAlly(${1:Faction akOther}, ${2:bool abSelfIsFriendToOther = false}, ${3:bool abOtherIsFriendToSelf = false})${0}]]></content>
+</snippet>

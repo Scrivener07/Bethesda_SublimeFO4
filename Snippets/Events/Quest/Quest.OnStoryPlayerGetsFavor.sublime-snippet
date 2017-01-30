@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryplayergetsfavor</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryPlayerGetsFavor</description>
+
+    <content><![CDATA[Event OnStoryPlayerGetsFavor(ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

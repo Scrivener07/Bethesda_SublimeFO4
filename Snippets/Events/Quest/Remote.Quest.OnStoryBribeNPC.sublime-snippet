@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorybribenpc-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryBribeNPC</description>
+
+    <content><![CDATA[Event Quest.OnStoryBribeNPC(Quest akSender, ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

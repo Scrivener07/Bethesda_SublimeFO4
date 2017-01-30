@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onunload-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnUnload</description>
+
+    <content><![CDATA[Event OnUnload(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerdialoguetarget-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnPlayerDialogueTarget</description>
+
+    <content><![CDATA[Event ObjectReference.OnPlayerDialogueTarget(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

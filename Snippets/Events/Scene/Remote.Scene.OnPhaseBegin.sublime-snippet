@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onphasebegin-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Scene.OnPhaseBegin</description>
+
+    <content><![CDATA[Event Scene.OnPhaseBegin(Scene akSender, int auiPhaseIndex)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstorykillactor-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryKillActor</description>
+
+    <content><![CDATA[Event Quest.OnStoryKillActor(Quest akSender, ObjectReference akVictim, ObjectReference akKiller, Location akLocation, int aiCrimeStatus, \
+  int aiRelationshipRank)
+    ${0}
+EndEvent]]></content>
+</snippet>

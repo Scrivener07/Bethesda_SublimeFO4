@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypicklock</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryPickLock</description>
+
+    <content><![CDATA[Event OnStoryPickLock(ObjectReference akActor, ObjectReference akLock)
+    ${0}
+EndEvent]]></content>
+</snippet>

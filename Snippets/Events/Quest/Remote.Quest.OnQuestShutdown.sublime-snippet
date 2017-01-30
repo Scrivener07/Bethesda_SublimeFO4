@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onquestshutdown-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnQuestShutdown</description>
+
+    <content><![CDATA[Event Quest.OnQuestShutdown(Quest akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>openworkshopsettlementmenuex</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[OpenWorkshopSettlementMenuEx(${1:Keyword akActionKW}, ${2:Message astrConfirm = None}, ${3:Location aLocToHighlight = None}, ${4:Keyword akFilterKeyword = None})${0}]]></content>
+</snippet>

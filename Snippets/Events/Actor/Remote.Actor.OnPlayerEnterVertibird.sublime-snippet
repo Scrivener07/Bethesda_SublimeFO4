@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerentervertibird-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerEnterVertibird</description>
+
+    <content><![CDATA[Event Actor.OnPlayerEnterVertibird(Actor akSender, ObjectReference akVertibird)
+    ${0}
+EndEvent]]></content>
+</snippet>

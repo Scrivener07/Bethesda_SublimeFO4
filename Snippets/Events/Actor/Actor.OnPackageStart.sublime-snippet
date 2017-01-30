@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpackagestart</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPackageStart</description>
+
+    <content><![CDATA[Event OnPackageStart(Package akNewPackage)
+    ${0}
+EndEvent]]></content>
+</snippet>

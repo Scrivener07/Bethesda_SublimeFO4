@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getvalue</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>GlobalVariable</description>
+
+    <content><![CDATA[GetValue()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationloaded</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Location.OnLocationLoaded</description>
+
+    <content><![CDATA[Event OnLocationLoaded()
+    ${0}
+EndEvent]]></content>
+</snippet>

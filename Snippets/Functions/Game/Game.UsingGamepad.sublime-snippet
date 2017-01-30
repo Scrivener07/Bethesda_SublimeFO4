@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>usinggamepad</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.UsingGamepad()${0}]]></content>
+</snippet>

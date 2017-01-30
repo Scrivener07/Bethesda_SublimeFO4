@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onreset</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnReset</description>
+
+    <content><![CDATA[Event OnReset()
+    ${0}
+EndEvent]]></content>
+</snippet>

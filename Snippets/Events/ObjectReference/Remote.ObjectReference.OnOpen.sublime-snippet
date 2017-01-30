@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onopen-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnOpen</description>
+
+    <content><![CDATA[Event ObjectReference.OnOpen(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

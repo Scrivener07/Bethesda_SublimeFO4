@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopmode-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnWorkshopMode</description>
+
+    <content><![CDATA[Event ObjectReference.OnWorkshopMode(ObjectReference akSender, bool aStart)
+    ${0}
+EndEvent]]></content>
+</snippet>

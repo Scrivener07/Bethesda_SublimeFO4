@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerwaitstop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnPlayerWaitStop</description>
+
+    <content><![CDATA[Event OnPlayerWaitStop(bool abInterrupted)
+    ${0}
+EndEvent]]></content>
+</snippet>

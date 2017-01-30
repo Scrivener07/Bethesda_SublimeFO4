@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onmagiceffectapply</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnMagicEffectApply</description>
+
+    <content><![CDATA[Event OnMagicEffectApply(ObjectReference akTarget, ObjectReference akCaster, MagicEffect akEffect)
+    ${0}
+EndEvent]]></content>
+</snippet>

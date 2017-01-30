@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>requestmodel</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.RequestModel(${1:string asModelName})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongetup-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnGetUp</description>
+
+    <content><![CDATA[Event OnGetUp(ObjectReference akSender, ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

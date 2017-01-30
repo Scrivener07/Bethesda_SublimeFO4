@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayermodrobot-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerModRobot</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerModRobot(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akRobot, ObjectMod akModBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

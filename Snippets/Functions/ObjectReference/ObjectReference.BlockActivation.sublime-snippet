@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>blockactivation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[BlockActivation(${1:bool abBlocked = True}, ${2:bool abHideActivateText = false})${0}]]></content>
+</snippet>

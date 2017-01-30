@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getalias</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Quest</description>
+
+    <content><![CDATA[GetAlias(${1:int iAliasID})${0}]]></content>
+</snippet>

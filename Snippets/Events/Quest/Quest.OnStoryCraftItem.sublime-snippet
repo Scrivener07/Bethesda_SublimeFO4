@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycraftitem</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryCraftItem</description>
+
+    <content><![CDATA[Event OnStoryCraftItem(ObjectReference akBench, Location akLocation, Form akCreatedItem)
+    ${0}
+EndEvent]]></content>
+</snippet>

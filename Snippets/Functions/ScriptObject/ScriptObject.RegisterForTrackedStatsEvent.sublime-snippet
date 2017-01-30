@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>registerfortrackedstatsevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[RegisterForTrackedStatsEvent(${1:string asStat}, ${2:int aiThreshold})${0}]]></content>
+</snippet>

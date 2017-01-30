@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondying-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnDying</description>
+
+    <content><![CDATA[Event Actor.OnDying(Actor akSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

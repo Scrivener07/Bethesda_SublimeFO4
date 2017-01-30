@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onsell-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnSell</description>
+
+    <content><![CDATA[Event ObjectReference.OnSell(ObjectReference akSender, Actor akSeller)
+    ${0}
+EndEvent]]></content>
+</snippet>

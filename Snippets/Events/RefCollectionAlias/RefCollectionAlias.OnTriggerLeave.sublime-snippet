@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontriggerleave-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnTriggerLeave</description>
+
+    <content><![CDATA[Event OnTriggerLeave(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

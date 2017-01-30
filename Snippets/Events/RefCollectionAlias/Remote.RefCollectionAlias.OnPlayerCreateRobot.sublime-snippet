@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayercreaterobot-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerCreateRobot</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerCreateRobot(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akNewRobot)
+    ${0}
+EndEvent]]></content>
+</snippet>

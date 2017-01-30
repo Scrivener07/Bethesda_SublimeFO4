@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayermodarmorweapon-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerModArmorWeapon</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerModArmorWeapon(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Form akBaseObject, ObjectMod akModBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

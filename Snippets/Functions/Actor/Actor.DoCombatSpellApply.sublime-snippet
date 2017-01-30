@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>docombatspellapply</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[DoCombatSpellApply(${1:Spell akSpell}, ${2:ObjectReference akTarget})${0}]]></content>
+</snippet>

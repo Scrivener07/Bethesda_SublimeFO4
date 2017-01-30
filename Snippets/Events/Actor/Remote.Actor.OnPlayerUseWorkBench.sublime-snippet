@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayeruseworkbench-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerUseWorkBench</description>
+
+    <content><![CDATA[Event Actor.OnPlayerUseWorkBench(Actor akSender, ObjectReference akWorkBench)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopnpctransfer-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnWorkshopNPCTransfer</description>
+
+    <content><![CDATA[Event ObjectReference.OnWorkshopNPCTransfer(ObjectReference akSender, Location akNewWorkshop, Keyword akActionKW)
+    ${0}
+EndEvent]]></content>
+</snippet>

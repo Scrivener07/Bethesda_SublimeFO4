@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getstolenitemvaluenocrime</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Faction</description>
+
+    <content><![CDATA[GetStolenItemValueNoCrime()${0}]]></content>
+</snippet>

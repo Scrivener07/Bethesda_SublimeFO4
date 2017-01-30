@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodegivecommand</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnCommandModeGiveCommand</description>
+
+    <content><![CDATA[Event OnCommandModeGiveCommand(int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

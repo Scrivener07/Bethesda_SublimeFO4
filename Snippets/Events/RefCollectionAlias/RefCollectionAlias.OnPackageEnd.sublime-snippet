@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpackageend-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPackageEnd</description>
+
+    <content><![CDATA[Event OnPackageEnd(ObjectReference akSender, Package akOldPackage)
+    ${0}
+EndEvent]]></content>
+</snippet>

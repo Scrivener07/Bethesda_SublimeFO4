@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodecompletecommand-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCommandModeCompleteCommand</description>
+
+    <content><![CDATA[Event Actor.OnCommandModeCompleteCommand(Actor akSender, int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaliasinit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Alias.OnAliasInit</description>
+
+    <content><![CDATA[Event OnAliasInit()
+    ${0}
+EndEvent]]></content>
+</snippet>

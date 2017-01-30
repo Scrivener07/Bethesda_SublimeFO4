@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>islockbroken</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[IsLockBroken()${0}]]></content>
+</snippet>

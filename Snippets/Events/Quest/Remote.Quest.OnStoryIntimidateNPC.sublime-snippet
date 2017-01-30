@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryintimidatenpc-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryIntimidateNPC</description>
+
+    <content><![CDATA[Event Quest.OnStoryIntimidateNPC(Quest akSender, ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

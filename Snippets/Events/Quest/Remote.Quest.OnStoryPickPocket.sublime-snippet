@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypickpocket-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryPickPocket</description>
+
+    <content><![CDATA[Event Quest.OnStoryPickPocket(Quest akSender, ObjectReference akVictim, bool abSuccess)
+    ${0}
+EndEvent]]></content>
+</snippet>

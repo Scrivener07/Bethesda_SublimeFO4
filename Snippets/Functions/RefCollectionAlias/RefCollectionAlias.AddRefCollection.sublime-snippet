@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>addrefcollection</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>RefCollectionAlias</description>
+
+    <content><![CDATA[AddRefCollection(${1:RefCollectionAlias refCollectionAliasToAdd})${0}]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>allowcompanion</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[AllowCompanion(${1:bool MakeCompanionIfNoneCurrently = true}, ${2:bool ForceCompanion = false})${0}]]></content>
+</snippet>

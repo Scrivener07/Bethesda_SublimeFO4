@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerwaitstart</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnPlayerWaitStart</description>
+
+    <content><![CDATA[Event OnPlayerWaitStart(float afWaitStartTime, float afDesiredWaitEndTime)
+    ${0}
+EndEvent]]></content>
+</snippet>

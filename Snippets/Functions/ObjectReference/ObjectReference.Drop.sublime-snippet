@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>drop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[Drop(${1:bool abSilent = false})${0}]]></content>
+</snippet>

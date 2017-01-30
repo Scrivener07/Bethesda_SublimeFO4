@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>pow</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Math</description>
+
+    <content><![CDATA[Math.pow(${1:float x}, ${2:float y})${0}]]></content>
+</snippet>

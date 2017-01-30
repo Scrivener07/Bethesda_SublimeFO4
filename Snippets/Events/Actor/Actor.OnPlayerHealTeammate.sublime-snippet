@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerhealteammate</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerHealTeammate</description>
+
+    <content><![CDATA[Event OnPlayerHealTeammate(Actor akTeammate)
+    ${0}
+EndEvent]]></content>
+</snippet>

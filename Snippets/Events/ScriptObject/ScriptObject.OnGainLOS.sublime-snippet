@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongainlos</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnGainLOS</description>
+
+    <content><![CDATA[Event OnGainLOS(ObjectReference akViewer, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

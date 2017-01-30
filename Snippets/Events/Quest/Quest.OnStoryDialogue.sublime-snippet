@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorydialogue</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryDialogue</description>
+
+    <content><![CDATA[Event OnStoryDialogue(Location akLocation, ObjectReference akActor1, ObjectReference akActor2)
+    ${0}
+EndEvent]]></content>
+</snippet>

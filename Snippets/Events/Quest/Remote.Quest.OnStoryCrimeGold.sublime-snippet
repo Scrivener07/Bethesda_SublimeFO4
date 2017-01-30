@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycrimegold-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryCrimeGold</description>
+
+    <content><![CDATA[Event Quest.OnStoryCrimeGold(Quest akSender, ObjectReference akVictim, ObjectReference akCriminal, Form akFaction, int aiGoldAmount, int aiCrime)
+    ${0}
+EndEvent]]></content>
+</snippet>

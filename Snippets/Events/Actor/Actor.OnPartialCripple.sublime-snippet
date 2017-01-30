@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpartialcripple</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPartialCripple</description>
+
+    <content><![CDATA[Event OnPartialCripple(ActorValue akActorValue, bool abCrippled)
+    ${0}
+EndEvent]]></content>
+</snippet>

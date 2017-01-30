@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>struct</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Struct Snippet</description>
+
+    <content><![CDATA[Struct ${1:StructName}
+	${0}
+EndStruct]]></content>
+</snippet>

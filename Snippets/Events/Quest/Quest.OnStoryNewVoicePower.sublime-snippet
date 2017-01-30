@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorynewvoicepower</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryNewVoicePower</description>
+
+    <content><![CDATA[Event OnStoryNewVoicePower(ObjectReference akActor, Form akVoicePower)
+    ${0}
+EndEvent]]></content>
+</snippet>

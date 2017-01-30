@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondestructionstagechanged-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnDestructionStageChanged</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnDestructionStageChanged(RefCollectionAlias akAliasSender, ObjectReference akRefSender, int aiOldStage, int aiCurrentStage)
+    ${0}
+EndEvent]]></content>
+</snippet>

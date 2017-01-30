@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemadded</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnItemAdded</description>
+
+    <content><![CDATA[Event OnItemAdded(Form akBaseItem, int aiItemCount, ObjectReference akItemReference, ObjectReference akSourceContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

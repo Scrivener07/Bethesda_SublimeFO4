@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryescapejail</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryEscapeJail</description>
+
+    <content><![CDATA[Event OnStoryEscapeJail(Location akLocation, Form akCrimeGroup)
+    ${0}
+EndEvent]]></content>
+</snippet>

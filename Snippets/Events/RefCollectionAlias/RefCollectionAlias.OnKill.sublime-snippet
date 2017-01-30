@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onkill-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnKill</description>
+
+    <content><![CDATA[Event OnKill(ObjectReference akSender, Actor akVictim)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryhackterminal-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryHackTerminal</description>
+
+    <content><![CDATA[Event Quest.OnStoryHackTerminal(Quest akSender, ObjectReference akComputer, bool abSucceeded)
+    ${0}
+EndEvent]]></content>
+</snippet>

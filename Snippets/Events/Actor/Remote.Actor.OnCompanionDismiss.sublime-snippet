@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncompaniondismiss-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCompanionDismiss</description>
+
+    <content><![CDATA[Event Actor.OnCompanionDismiss(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isinlocation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[IsInLocation(${1:Location akLocation})${0}]]></content>
+</snippet>

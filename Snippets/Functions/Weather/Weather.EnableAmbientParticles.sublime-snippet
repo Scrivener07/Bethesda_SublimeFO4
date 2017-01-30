@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>enableambientparticles</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Weather</description>
+
+    <content><![CDATA[Weather.EnableAmbientParticles(${1:bool abEnable = true})${0}]]></content>
+</snippet>

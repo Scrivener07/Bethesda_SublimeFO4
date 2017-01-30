@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayeruseworkbench</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerUseWorkBench</description>
+
+    <content><![CDATA[Event OnPlayerUseWorkBench(ObjectReference akWorkBench)
+    ${0}
+EndEvent]]></content>
+</snippet>

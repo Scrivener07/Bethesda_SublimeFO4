@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onexitfurniture</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnExitFurniture</description>
+
+    <content><![CDATA[Event OnExitFurniture(ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

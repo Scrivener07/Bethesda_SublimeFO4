@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryattractionobject</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryAttractionObject</description>
+
+    <content><![CDATA[Event OnStoryAttractionObject(ObjectReference akActor, ObjectReference akObject, Location akLocation, bool abCommanded)
+    ${0}
+EndEvent]]></content>
+</snippet>

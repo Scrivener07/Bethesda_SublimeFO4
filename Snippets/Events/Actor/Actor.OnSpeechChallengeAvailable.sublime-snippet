@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onspeechchallengeavailable</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnSpeechChallengeAvailable</description>
+
+    <content><![CDATA[Event OnSpeechChallengeAvailable(ObjectReference akSpeaker)
+    ${0}
+EndEvent]]></content>
+</snippet>

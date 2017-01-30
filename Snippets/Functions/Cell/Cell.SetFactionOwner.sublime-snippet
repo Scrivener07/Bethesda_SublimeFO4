@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setfactionowner</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Cell</description>
+
+    <content><![CDATA[SetFactionOwner(${1:Faction akFaction})${0}]]></content>
+</snippet>

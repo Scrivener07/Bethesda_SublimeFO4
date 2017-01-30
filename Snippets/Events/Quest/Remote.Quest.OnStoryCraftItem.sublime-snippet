@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycraftitem-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryCraftItem</description>
+
+    <content><![CDATA[Event Quest.OnStoryCraftItem(Quest akSender, ObjectReference akBench, Location akLocation, Form akCreatedItem)
+    ${0}
+EndEvent]]></content>
+</snippet>

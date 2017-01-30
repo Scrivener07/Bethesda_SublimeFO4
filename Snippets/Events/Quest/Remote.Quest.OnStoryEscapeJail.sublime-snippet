@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryescapejail-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryEscapeJail</description>
+
+    <content><![CDATA[Event Quest.OnStoryEscapeJail(Quest akSender, Location akLocation, Form akCrimeGroup)
+    ${0}
+EndEvent]]></content>
+</snippet>

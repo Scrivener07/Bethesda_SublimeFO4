@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeexit-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCommandModeExit</description>
+
+    <content><![CDATA[Event Actor.OnCommandModeExit(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

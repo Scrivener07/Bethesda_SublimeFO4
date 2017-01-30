@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onescortwaitstop-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnEscortWaitStop</description>
+
+    <content><![CDATA[Event OnEscortWaitStop(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

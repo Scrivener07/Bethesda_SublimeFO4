@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaliasshutdown</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Alias.OnAliasShutdown</description>
+
+    <content><![CDATA[Event OnAliasShutdown()
+    ${0}
+EndEvent]]></content>
+</snippet>

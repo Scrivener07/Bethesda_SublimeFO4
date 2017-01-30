@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>hascommonparent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Location</description>
+
+    <content><![CDATA[HasCommonParent(${1:Location akOther}, ${2:Keyword akFilter = None})${0}]]></content>
+</snippet>

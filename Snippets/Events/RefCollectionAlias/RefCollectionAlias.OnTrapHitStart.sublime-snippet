@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>ontraphitstart-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnTrapHitStart</description>
+
+    <content><![CDATA[Event OnTrapHitStart(ObjectReference akSender, ObjectReference akTarget, float afXVel, float afYVel, float afZVel, float afXPos, float afYPos, \
+    float afZPos, int aeMaterial, bool abInitialHit, int aeMotionType)
+    ${0}
+EndEvent]]></content>
+</snippet>

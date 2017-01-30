@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>passtime</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.PassTime(${1:int aiHours})${0}]]></content>
+</snippet>

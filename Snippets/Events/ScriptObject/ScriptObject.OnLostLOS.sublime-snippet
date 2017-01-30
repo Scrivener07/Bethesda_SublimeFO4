@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlostlos</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnLostLOS</description>
+
+    <content><![CDATA[Event OnLostLOS(ObjectReference akViewer, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

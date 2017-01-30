@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unregisterforhitevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[UnregisterForHitEvent(${1:ScriptObject akTarget}, ${2:ScriptObject akAggressorFilter = None}, ${3:Form akSourceFilter = None}, ${4:Form akProjectileFilter = None}, ${5:int aiPowerFilter = -1}, ${6:int aiSneakFilter = -1}, ${7:int aiBashFilter = -1}, ${8:int aiBlockFilter = -1}, ${9:bool abMatch = true})${0}]]></content>
+</snippet>

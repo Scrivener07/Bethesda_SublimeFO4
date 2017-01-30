@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryincreaselevel-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryIncreaseLevel</description>
+
+    <content><![CDATA[Event Quest.OnStoryIncreaseLevel(Quest akSender, int aiNewLevel)
+    ${0}
+EndEvent]]></content>
+</snippet>

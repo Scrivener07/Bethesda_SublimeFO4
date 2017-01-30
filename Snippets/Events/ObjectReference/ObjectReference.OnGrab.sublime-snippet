@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongrab</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnGrab</description>
+
+    <content><![CDATA[Event OnGrab()
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationchange-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnLocationChange</description>
+
+    <content><![CDATA[Event OnLocationChange(ObjectReference akSender, Location akOldLoc, Location akNewLoc)
+    ${0}
+EndEvent]]></content>
+</snippet>

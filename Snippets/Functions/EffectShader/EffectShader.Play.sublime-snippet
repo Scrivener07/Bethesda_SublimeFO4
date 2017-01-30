@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>play</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>EffectShader</description>
+
+    <content><![CDATA[Play(${1:ObjectReference akObject}, ${2:float afDuration = -1.0})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryattractionobject-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryAttractionObject</description>
+
+    <content><![CDATA[Event Quest.OnStoryAttractionObject(Quest akSender, ObjectReference akActor, ObjectReference akObject, Location akLocation, bool abCommanded)
+    ${0}
+EndEvent]]></content>
+</snippet>

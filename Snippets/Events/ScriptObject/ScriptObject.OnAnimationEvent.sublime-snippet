@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onanimationevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnAnimationEvent</description>
+
+    <content><![CDATA[Event OnAnimationEvent(ObjectReference akSource, string asEventName)
+    ${0}
+EndEvent]]></content>
+</snippet>

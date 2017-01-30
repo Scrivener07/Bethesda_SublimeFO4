@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemremoved-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnItemRemoved</description>
+
+    <content><![CDATA[Event OnItemRemoved(ObjectReference akSender, Form akBaseItem, int aiItemCount, ObjectReference akItemReference, ObjectReference akDestContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

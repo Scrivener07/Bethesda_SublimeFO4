@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onreset-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnReset</description>
+
+    <content><![CDATA[Event OnReset(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

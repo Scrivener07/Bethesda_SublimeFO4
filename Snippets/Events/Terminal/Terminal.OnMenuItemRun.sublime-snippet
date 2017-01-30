@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onmenuitemrun</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Terminal.OnMenuItemRun</description>
+
+    <content><![CDATA[Event OnMenuItemRun(int auiMenuItemID, ObjectReference akTerminalRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

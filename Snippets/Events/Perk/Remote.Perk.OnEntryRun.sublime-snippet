@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onentryrun-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Perk.OnEntryRun</description>
+
+    <content><![CDATA[Event Perk.OnEntryRun(Perk akSender, int auiEntryID, ObjectReference akTarget, Actor akOwner)
+    ${0}
+EndEvent]]></content>
+</snippet>

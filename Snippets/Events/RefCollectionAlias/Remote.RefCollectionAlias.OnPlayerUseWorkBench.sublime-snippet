@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayeruseworkbench-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerUseWorkBench</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerUseWorkBench(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akWorkBench)
+    ${0}
+EndEvent]]></content>
+</snippet>

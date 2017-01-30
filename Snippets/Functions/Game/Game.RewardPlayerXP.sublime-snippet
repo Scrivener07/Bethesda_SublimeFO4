@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>rewardplayerxp</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.RewardPlayerXP(${1:int auiXPAmount}, ${2:bool abDirect = false})${0}]]></content>
+</snippet>

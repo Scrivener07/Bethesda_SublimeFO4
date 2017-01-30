@@ -1,0 +1,11 @@
+<snippet>
+    <tabTrigger>for</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Pseudo For Loop</description>
+
+    <content><![CDATA[int ${1:count} = 0
+While (${1:count} < ${2:maxSize})
+	${0}
+	${1:count} += 1
+EndWhile]]></content>
+</snippet>

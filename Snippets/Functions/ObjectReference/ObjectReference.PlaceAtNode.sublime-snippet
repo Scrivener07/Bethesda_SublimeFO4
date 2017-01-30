@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>placeatnode</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[PlaceAtNode(${1:string asNodeName}, ${2:Form akFormToPlace}, ${3:int aiCount = 1}, ${4:bool abForcePersist = false}, ${5:bool abInitiallyDisabled = false}, ${6:bool abDeleteWhenAble = true}, ${7:bool abAttach = false})${0}]]></content>
+</snippet>

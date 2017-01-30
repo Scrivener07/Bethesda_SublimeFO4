@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onkill-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnKill</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnKill(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akVictim)
+    ${0}
+EndEvent]]></content>
+</snippet>

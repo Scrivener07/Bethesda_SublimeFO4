@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onquestshutdown</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnQuestShutdown</description>
+
+    <content><![CDATA[Event OnQuestShutdown()
+    ${0}
+EndEvent]]></content>
+</snippet>

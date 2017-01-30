@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onholotapechatter-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnHolotapeChatter</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnHolotapeChatter(RefCollectionAlias akAliasSender, ObjectReference akRefSender, string astrChatter, float afNumericData )
+    ${0}
+EndEvent]]></content>
+</snippet>

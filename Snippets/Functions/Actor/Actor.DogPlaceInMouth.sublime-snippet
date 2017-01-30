@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>dogplaceinmouth</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[DogPlaceInMouth(${1:Form akItem})${0}]]></content>
+</snippet>

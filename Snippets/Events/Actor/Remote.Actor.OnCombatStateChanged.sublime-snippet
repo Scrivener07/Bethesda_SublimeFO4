@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncombatstatechanged-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCombatStateChanged</description>
+
+    <content><![CDATA[Event Actor.OnCombatStateChanged(Actor akSender, Actor akTarget, int aeCombatState)
+    ${0}
+EndEvent]]></content>
+</snippet>

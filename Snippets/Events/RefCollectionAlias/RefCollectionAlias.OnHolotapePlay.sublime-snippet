@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onholotapeplay-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnHolotapePlay</description>
+
+    <content><![CDATA[Event OnHolotapePlay(ObjectReference akSender, ObjectReference akTerminalRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

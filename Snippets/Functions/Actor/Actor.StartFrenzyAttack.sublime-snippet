@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>startfrenzyattack</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[StartFrenzyAttack(${1:float aChance = 0.1}, ${2:float aInterval = 0.5})${0}]]></content>
+</snippet>

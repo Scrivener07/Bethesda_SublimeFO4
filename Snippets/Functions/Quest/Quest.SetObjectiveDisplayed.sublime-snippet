@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setobjectivedisplayed</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Quest</description>
+
+    <content><![CDATA[SetObjectiveDisplayed(${1:int aiObjective}, ${2:bool abDisplayed = true}, ${3:bool abForce = false})${0}]]></content>
+</snippet>

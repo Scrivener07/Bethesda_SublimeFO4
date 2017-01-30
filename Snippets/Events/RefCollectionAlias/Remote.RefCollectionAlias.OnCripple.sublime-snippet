@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncripple-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCripple</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCripple(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ActorValue akActorValue, bool abCrippled)
+    ${0}
+EndEvent]]></content>
+</snippet>

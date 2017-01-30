@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayermodrobot</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerModRobot</description>
+
+    <content><![CDATA[Event OnPlayerModRobot(Actor akRobot, ObjectMod akModBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorychangelocation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryChangeLocation</description>
+
+    <content><![CDATA[Event OnStoryChangeLocation(ObjectReference akActor, Location akOldLocation, Location akNewLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

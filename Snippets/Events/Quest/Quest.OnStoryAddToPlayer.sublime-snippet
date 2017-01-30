@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstoryaddtoplayer</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryAddToPlayer</description>
+
+    <content><![CDATA[Event OnStoryAddToPlayer(ObjectReference akOwner, ObjectReference akContainer, Location akLocation, Form akItemBase, \
+  int aiAcquireType)
+    ${0}
+EndEvent]]></content>
+</snippet>

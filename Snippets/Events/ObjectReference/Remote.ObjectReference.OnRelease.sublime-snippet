@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onrelease-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnRelease</description>
+
+    <content><![CDATA[Event ObjectReference.OnRelease(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

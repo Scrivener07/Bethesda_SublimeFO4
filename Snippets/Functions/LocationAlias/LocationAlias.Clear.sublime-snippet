@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>clear</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>LocationAlias</description>
+
+    <content><![CDATA[Clear()${0}]]></content>
+</snippet>

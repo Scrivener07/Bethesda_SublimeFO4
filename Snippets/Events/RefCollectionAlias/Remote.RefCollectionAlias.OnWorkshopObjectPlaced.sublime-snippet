@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectplaced-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnWorkshopObjectPlaced</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnWorkshopObjectPlaced(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

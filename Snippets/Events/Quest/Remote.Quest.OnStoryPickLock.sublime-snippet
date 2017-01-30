@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypicklock-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryPickLock</description>
+
+    <content><![CDATA[Event Quest.OnStoryPickLock(Quest akSender, ObjectReference akActor, ObjectReference akLock)
+    ${0}
+EndEvent]]></content>
+</snippet>

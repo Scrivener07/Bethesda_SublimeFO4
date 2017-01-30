@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onclose-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnClose</description>
+
+    <content><![CDATA[Event ObjectReference.OnClose(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

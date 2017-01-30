@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onsit-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnSit</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnSit(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

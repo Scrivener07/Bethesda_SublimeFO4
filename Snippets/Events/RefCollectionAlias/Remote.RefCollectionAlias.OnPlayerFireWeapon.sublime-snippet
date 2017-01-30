@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfireweapon-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerFireWeapon</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerFireWeapon(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Form akBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

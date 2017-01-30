@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontranslationcomplete-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnTranslationComplete</description>
+
+    <content><![CDATA[Event ObjectReference.OnTranslationComplete(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

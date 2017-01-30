@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onactivate</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnActivate</description>
+
+    <content><![CDATA[Event OnActivate(ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

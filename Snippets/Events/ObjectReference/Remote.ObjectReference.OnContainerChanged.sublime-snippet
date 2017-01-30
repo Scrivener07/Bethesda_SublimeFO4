@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncontainerchanged-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnContainerChanged</description>
+
+    <content><![CDATA[Event ObjectReference.OnContainerChanged(ObjectReference akSender, ObjectReference akNewContainer, ObjectReference akOldContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,15 @@
+<snippet>
+    <tabTrigger>propFull</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Property (with get and set)</description>
+    <content><![CDATA[${1:type} ${2:PropertyName}_var${0}
+${1:type} Property ${2:PropertyName} ${3:Mandatory}
+	${1:type} Function Get()
+		return ${2:PropertyName}_var
+	EndFunction
+
+	Function Set(${1:type} aValue)
+		${2:PropertyName}_var = aValue
+	EndFunction
+EndProperty]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopmode</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnWorkshopMode</description>
+
+    <content><![CDATA[Event OnWorkshopMode(bool aStart)
+    ${0}
+EndEvent]]></content>
+</snippet>

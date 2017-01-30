@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onsell-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnSell</description>
+
+    <content><![CDATA[Event OnSell(ObjectReference akSender, Actor akSeller)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setbribed</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetBribed(${1:bool abBribe = true})${0}]]></content>
+</snippet>

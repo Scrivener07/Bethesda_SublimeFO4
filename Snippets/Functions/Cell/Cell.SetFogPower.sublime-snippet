@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setfogpower</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Cell</description>
+
+    <content><![CDATA[SetFogPower(${1:float afPower})${0}]]></content>
+</snippet>

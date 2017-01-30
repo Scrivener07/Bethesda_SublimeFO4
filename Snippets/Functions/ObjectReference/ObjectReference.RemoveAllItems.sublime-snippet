@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>removeallitems</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[RemoveAllItems(${1:ObjectReference akTransferTo = None}, ${2:bool abKeepOwnership = false})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryclearlocation-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryClearLocation</description>
+
+    <content><![CDATA[Event Quest.OnStoryClearLocation(Quest akSender, Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

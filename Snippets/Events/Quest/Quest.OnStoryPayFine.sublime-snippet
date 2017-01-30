@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypayfine</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryPayFine</description>
+
+    <content><![CDATA[Event OnStoryPayFine(ObjectReference akCriminal, ObjectReference akGuard, Form akCrimeGroup, int aiCrimeGold)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unregisterfortrackedstatsevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[UnregisterForTrackedStatsEvent(${1:string asStat})${0}]]></content>
+</snippet>

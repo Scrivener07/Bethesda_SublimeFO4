@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstorykillactor</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryKillActor</description>
+
+    <content><![CDATA[Event OnStoryKillActor(ObjectReference akVictim, ObjectReference akKiller, Location akLocation, int aiCrimeStatus, \
+  int aiRelationshipRank)
+    ${0}
+EndEvent]]></content>
+</snippet>

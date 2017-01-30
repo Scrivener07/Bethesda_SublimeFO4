@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>attachto</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[AttachTo(${1:ObjectReference akParent})${0}]]></content>
+</snippet>

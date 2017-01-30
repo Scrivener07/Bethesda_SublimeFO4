@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemunequipped-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnItemUnequipped</description>
+
+    <content><![CDATA[Event OnItemUnequipped(ObjectReference akSender, Form akBaseObject, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

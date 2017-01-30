@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncellload-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCellLoad</description>
+
+    <content><![CDATA[Event OnCellLoad(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

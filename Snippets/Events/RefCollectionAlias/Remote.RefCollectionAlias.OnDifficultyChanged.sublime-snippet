@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondifficultychanged-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnDifficultyChanged</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnDifficultyChanged(RefCollectionAlias akAliasSender, ObjectReference akRefSender, int aOldDifficulty, int aNewDifficulty)
+    ${0}
+EndEvent]]></content>
+</snippet>

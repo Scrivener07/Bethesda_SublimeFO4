@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isboundgameobjectavailable</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[IsBoundGameObjectAvailable()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onentersneaking-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnEnterSneaking</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnEnterSneaking(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

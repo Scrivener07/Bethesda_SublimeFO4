@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstoryrelationshipchange-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryRelationshipChange</description>
+
+    <content><![CDATA[Event Quest.OnStoryRelationshipChange(Quest akSender, ObjectReference akActor1, ObjectReference akActor2, int aiOldRelationship, \
+  int aiNewRelationship)
+    ${0}
+EndEvent]]></content>
+</snippet>

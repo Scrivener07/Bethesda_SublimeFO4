@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlocationloaded-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Location.OnLocationLoaded</description>
+
+    <content><![CDATA[Event Location.OnLocationLoaded(Location akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

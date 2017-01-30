@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>checkobjectreferenceagainstarray</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>CommonArrayFunctions</description>
+
+    <content><![CDATA[CommonArrayFunctions.CheckObjectReferenceAgainstArray(${1:ObjectReference ObjectToCheck}, ${2:ObjectReference[] ArrayToCheck}, ${3:bool returnValueIfArrayIsEmpty = false})${0}]]></content>
+</snippet>

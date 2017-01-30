@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondying</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnDying</description>
+
+    <content><![CDATA[Event OnDying(Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

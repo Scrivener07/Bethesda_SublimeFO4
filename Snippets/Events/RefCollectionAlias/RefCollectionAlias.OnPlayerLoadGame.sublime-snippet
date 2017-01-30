@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerloadgame-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPlayerLoadGame</description>
+
+    <content><![CDATA[Event OnPlayerLoadGame(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

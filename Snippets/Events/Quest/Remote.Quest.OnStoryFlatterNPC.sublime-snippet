@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryflatternpc-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryFlatterNPC</description>
+
+    <content><![CDATA[Event Quest.OnStoryFlatterNPC(Quest akSender, ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

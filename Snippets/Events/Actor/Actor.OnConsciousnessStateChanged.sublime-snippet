@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onconsciousnessstatechanged</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnConsciousnessStateChanged</description>
+
+    <content><![CDATA[Event OnConsciousnessStateChanged( bool abUnconscious )
+    ${0}
+EndEvent]]></content>
+</snippet>

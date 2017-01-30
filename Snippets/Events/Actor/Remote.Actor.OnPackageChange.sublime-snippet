@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpackagechange-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPackageChange</description>
+
+    <content><![CDATA[Event Actor.OnPackageChange(Actor akSender, Package akOldPackage)
+    ${0}
+EndEvent]]></content>
+</snippet>

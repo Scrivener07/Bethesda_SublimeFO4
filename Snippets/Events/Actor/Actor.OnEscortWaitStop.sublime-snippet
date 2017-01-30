@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onescortwaitstop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnEscortWaitStop</description>
+
+    <content><![CDATA[Event OnEscortWaitStop()
+    ${0}
+EndEvent]]></content>
+</snippet>

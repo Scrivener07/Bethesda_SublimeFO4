@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onraceswitchcomplete-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnRaceSwitchComplete</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnRaceSwitchComplete(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

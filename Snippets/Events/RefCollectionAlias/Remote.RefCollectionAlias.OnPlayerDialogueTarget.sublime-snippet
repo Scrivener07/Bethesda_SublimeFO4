@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerdialoguetarget-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerDialogueTarget</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerDialogueTarget(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setattackactoronsight</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetAttackActorOnSight(${1:bool abAttackOnSight = true})${0}]]></content>
+</snippet>

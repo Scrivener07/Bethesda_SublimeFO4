@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onbegin-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Scene.OnBegin</description>
+
+    <content><![CDATA[Event Scene.OnBegin(Scene akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

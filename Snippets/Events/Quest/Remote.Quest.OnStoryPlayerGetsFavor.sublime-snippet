@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryplayergetsfavor-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryPlayerGetsFavor</description>
+
+    <content><![CDATA[Event Quest.OnStoryPlayerGetsFavor(Quest akSender, ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncelldetach</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnCellDetach</description>
+
+    <content><![CDATA[Event OnCellDetach()
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayermodarmorweapon</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerModArmorWeapon</description>
+
+    <content><![CDATA[Event OnPlayerModArmorWeapon(Form akBaseObject, ObjectMod akModBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

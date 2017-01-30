@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryflatternpc</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryFlatterNPC</description>
+
+    <content><![CDATA[Event OnStoryFlatterNPC(ObjectReference akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

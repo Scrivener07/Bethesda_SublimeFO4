@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstoryrelationshipchange</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryRelationshipChange</description>
+
+    <content><![CDATA[Event OnStoryRelationshipChange(ObjectReference akActor1, ObjectReference akActor2, int aiOldRelationship, \
+  int aiNewRelationship)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaliasshutdown-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Alias.OnAliasShutdown</description>
+
+    <content><![CDATA[Event Alias.OnAliasShutdown(Alias akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

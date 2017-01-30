@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setmotiontype</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[SetMotionType(${1:int aiMotionType}, ${2:bool abAllowActivate = true})${0}]]></content>
+</snippet>

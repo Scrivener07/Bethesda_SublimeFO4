@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onexitfurniture-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnExitFurniture</description>
+
+    <content><![CDATA[Event ObjectReference.OnExitFurniture(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

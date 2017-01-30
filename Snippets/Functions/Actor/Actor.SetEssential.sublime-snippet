@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setessential</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetEssential(${1:bool abEssential})${0}]]></content>
+</snippet>

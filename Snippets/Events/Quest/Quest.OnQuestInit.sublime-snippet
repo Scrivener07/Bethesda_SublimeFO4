@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onquestinit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnQuestInit</description>
+
+    <content><![CDATA[Event OnQuestInit()
+    ${0}
+EndEvent]]></content>
+</snippet>

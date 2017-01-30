@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>sellitem</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[SellItem(${1:Form Item}, ${2:int Value}, ${3:int amountToSell = -1}, ${4:bool silent = false}, ${5:form paymentItem = none}, ${6:objectReference PaymentContainer = None})${0}]]></content>
+</snippet>

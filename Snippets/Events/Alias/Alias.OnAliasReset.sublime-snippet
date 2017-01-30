@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaliasreset</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Alias.OnAliasReset</description>
+
+    <content><![CDATA[Event OnAliasReset()
+    ${0}
+EndEvent]]></content>
+</snippet>

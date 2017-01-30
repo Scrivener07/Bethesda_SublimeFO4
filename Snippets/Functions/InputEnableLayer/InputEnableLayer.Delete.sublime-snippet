@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>delete</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[Delete()${0}]]></content>
+</snippet>

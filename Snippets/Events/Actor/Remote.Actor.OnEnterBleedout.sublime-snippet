@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onenterbleedout-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnEnterBleedout</description>
+
+    <content><![CDATA[Event Actor.OnEnterBleedout(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

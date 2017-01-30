@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontraphitstop-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnTrapHitStop</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnTrapHitStop(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

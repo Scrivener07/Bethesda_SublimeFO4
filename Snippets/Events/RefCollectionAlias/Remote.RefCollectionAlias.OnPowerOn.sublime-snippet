@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpoweron-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPowerOn</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPowerOn(RefCollectionAlias akAliasSender, ObjectReference akRefSender, ObjectReference akPowerGenerator)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onconsciousnessstatechanged-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnConsciousnessStateChanged</description>
+
+    <content><![CDATA[Event Actor.OnConsciousnessStateChanged(Actor akSender, bool abUnconscious )
+    ${0}
+EndEvent]]></content>
+</snippet>

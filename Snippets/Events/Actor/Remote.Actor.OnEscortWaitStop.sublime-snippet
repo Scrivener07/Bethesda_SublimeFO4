@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onescortwaitstop-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnEscortWaitStop</description>
+
+    <content><![CDATA[Event Actor.OnEscortWaitStop(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

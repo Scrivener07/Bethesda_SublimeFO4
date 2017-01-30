@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getlowestrelationshiprank</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[GetLowestRelationshipRank()${0}]]></content>
+</snippet>

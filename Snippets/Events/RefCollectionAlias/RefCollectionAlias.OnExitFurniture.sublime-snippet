@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onexitfurniture-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnExitFurniture</description>
+
+    <content><![CDATA[Event OnExitFurniture(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

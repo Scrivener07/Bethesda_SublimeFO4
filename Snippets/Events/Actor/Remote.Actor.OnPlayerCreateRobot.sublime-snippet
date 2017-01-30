@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayercreaterobot-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerCreateRobot</description>
+
+    <content><![CDATA[Event Actor.OnPlayerCreateRobot(Actor akSender, Actor akNewRobot)
+    ${0}
+EndEvent]]></content>
+</snippet>

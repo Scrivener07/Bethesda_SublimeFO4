@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorylocationloaded-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryLocationLoaded</description>
+
+    <content><![CDATA[Event Quest.OnStoryLocationLoaded(Quest akSender, Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

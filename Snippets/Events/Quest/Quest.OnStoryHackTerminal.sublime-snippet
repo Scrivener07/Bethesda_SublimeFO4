@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryhackterminal</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryHackTerminal</description>
+
+    <content><![CDATA[Event OnStoryHackTerminal(ObjectReference akComputer, bool abSucceeded)
+    ${0}
+EndEvent]]></content>
+</snippet>

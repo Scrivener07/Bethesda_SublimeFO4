@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodegivecommand-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCommandModeGiveCommand</description>
+
+    <content><![CDATA[Event Actor.OnCommandModeGiveCommand(Actor akSender, int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

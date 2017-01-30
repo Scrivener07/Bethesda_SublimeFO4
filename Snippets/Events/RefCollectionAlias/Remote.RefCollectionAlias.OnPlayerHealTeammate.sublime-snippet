@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerhealteammate-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnPlayerHealTeammate</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnPlayerHealTeammate(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akTeammate)
+    ${0}
+EndEvent]]></content>
+</snippet>

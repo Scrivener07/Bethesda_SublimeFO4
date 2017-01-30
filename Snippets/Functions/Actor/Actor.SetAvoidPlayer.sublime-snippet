@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>setavoidplayer</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[SetAvoidPlayer(${1:bool abAvoid = true})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onequipped-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnEquipped</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnEquipped(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

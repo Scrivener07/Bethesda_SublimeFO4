@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerteleport</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnPlayerTeleport</description>
+
+    <content><![CDATA[Event OnPlayerTeleport()
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>registerforcustomevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[RegisterForCustomEvent(${1:ScriptObject akEventSource}, ${2:CustomEventName asEventName})${0}]]></content>
+</snippet>

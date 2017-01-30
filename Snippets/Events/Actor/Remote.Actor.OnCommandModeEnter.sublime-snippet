@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeenter-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnCommandModeEnter</description>
+
+    <content><![CDATA[Event Actor.OnCommandModeEnter(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

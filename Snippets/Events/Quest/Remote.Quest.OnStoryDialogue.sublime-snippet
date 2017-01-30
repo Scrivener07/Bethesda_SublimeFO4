@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorydialogue-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryDialogue</description>
+
+    <content><![CDATA[Event Quest.OnStoryDialogue(Quest akSender, Location akLocation, ObjectReference akActor1, ObjectReference akActor2)
+    ${0}
+EndEvent]]></content>
+</snippet>

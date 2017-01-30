@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>stop</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Scene</description>
+
+    <content><![CDATA[Stop()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onenterbleedout-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnEnterBleedout</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnEnterBleedout(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

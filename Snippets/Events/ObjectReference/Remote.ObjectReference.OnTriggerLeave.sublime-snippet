@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontriggerleave-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnTriggerLeave</description>
+
+    <content><![CDATA[Event ObjectReference.OnTriggerLeave(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstageset-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStageSet</description>
+
+    <content><![CDATA[Event Quest.OnStageSet(Quest akSender, int auiStageID, int auiItemID)
+    ${0}
+EndEvent]]></content>
+</snippet>

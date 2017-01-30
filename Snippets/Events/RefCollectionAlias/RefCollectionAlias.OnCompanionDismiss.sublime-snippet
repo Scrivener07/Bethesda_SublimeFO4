@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncompaniondismiss-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCompanionDismiss</description>
+
+    <content><![CDATA[Event OnCompanionDismiss(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

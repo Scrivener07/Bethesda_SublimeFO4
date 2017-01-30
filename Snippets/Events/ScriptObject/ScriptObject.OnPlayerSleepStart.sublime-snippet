@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayersleepstart</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnPlayerSleepStart</description>
+
+    <content><![CDATA[Event OnPlayerSleepStart(float afSleepStartTime, float afDesiredSleepEndTime, ObjectReference akBed)
+    ${0}
+EndEvent]]></content>
+</snippet>

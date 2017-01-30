@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>enddeferredkill</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[EndDeferredKill()${0}]]></content>
+</snippet>

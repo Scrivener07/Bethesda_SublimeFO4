@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unregisterformagiceffectapplyevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[UnregisterForMagicEffectApplyEvent(${1:ScriptObject akTarget}, ${2:ScriptObject akCasterFilter = None}, ${3:Form akEffectFilter = None}, ${4:bool abMatch = true})${0}]]></content>
+</snippet>

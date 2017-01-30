@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerdialoguetarget</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnPlayerDialogueTarget</description>
+
+    <content><![CDATA[Event OnPlayerDialogueTarget()
+    ${0}
+EndEvent]]></content>
+</snippet>

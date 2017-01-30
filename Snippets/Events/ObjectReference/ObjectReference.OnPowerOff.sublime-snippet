@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpoweroff</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnPowerOff</description>
+
+    <content><![CDATA[Event OnPowerOff()
+    ${0}
+EndEvent]]></content>
+</snippet>

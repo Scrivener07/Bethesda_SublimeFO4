@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onholotapechatter</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnHolotapeChatter</description>
+
+    <content><![CDATA[Event OnHolotapeChatter( string astrChatter, float afNumericData )
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onescortwaitstop-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnEscortWaitStop</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnEscortWaitStop(RefCollectionAlias akAliasSender, ObjectReference akRefSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

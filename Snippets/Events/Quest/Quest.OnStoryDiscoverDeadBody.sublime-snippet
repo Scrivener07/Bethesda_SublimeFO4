@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorydiscoverdeadbody</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryDiscoverDeadBody</description>
+
+    <content><![CDATA[Event OnStoryDiscoverDeadBody(ObjectReference akActor, ObjectReference akDeadActor, Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

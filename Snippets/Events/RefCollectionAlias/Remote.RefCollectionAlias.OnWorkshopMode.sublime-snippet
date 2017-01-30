@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopmode-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnWorkshopMode</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnWorkshopMode(RefCollectionAlias akAliasSender, ObjectReference akRefSender, bool aStart)
+    ${0}
+EndEvent]]></content>
+</snippet>

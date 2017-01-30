@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectrepaired</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnWorkshopObjectRepaired</description>
+
+    <content><![CDATA[Event OnWorkshopObjectRepaired(ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

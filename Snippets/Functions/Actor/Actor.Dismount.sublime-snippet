@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>dismount</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[Dismount()${0}]]></content>
+</snippet>

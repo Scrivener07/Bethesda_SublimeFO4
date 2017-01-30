@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondestructionstagechanged-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnDestructionStageChanged</description>
+
+    <content><![CDATA[Event ObjectReference.OnDestructionStageChanged(ObjectReference akSender, int aiOldStage, int aiCurrentStage)
+    ${0}
+EndEvent]]></content>
+</snippet>

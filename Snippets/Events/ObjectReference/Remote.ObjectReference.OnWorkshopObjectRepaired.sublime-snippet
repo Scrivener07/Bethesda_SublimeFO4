@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectrepaired-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnWorkshopObjectRepaired</description>
+
+    <content><![CDATA[Event ObjectReference.OnWorkshopObjectRepaired(ObjectReference akSender, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

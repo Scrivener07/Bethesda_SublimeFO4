@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondying-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnDying</description>
+
+    <content><![CDATA[Event OnDying(ObjectReference akSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontranslationalmostcomplete</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnTranslationAlmostComplete</description>
+
+    <content><![CDATA[Event OnTranslationAlmostComplete()
+    ${0}
+EndEvent]]></content>
+</snippet>

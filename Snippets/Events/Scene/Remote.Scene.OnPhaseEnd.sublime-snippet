@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onphaseend-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Scene.OnPhaseEnd</description>
+
+    <content><![CDATA[Event Scene.OnPhaseEnd(Scene akSender, int auiPhaseIndex)
+    ${0}
+EndEvent]]></content>
+</snippet>

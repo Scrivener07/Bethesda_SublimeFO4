@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongetup-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnGetUp</description>
+
+    <content><![CDATA[Event Actor.OnGetUp(Actor akSender, ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

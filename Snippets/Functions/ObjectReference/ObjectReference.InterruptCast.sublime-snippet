@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>interruptcast</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[InterruptCast()${0}]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>sendstoryevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Keyword</description>
+
+    <content><![CDATA[SendStoryEvent(${1:Location akLoc = None}, ${2:ObjectReference akRef1 = None}, ${3:ObjectReference akRef2 = None}, ${4:int aiValue1 = 0}, ${5:int aiValue2 = 0})${0}]]></content>
+</snippet>

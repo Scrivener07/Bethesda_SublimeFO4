@@ -1,0 +1,12 @@
+<snippet>
+    <tabTrigger>forEach</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Pseudo For-Each Loop</description>
+
+    <content><![CDATA[int ${1:count} = 0
+While (${1:count} < ${2:arrayName}.length)
+	${3:type} curItem = ${2:arrayName}[${1:count}]
+	${0}
+	${1:count} += 1
+EndWhile]]></content>
+</snippet>

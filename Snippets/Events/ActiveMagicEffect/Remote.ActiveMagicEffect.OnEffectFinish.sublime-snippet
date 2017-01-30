@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oneffectfinish-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ActiveMagicEffect.OnEffectFinish</description>
+
+    <content><![CDATA[Event ActiveMagicEffect.OnEffectFinish(ActiveMagicEffect akSender, Actor akTarget, Actor akCaster)
+    ${0}
+EndEvent]]></content>
+</snippet>

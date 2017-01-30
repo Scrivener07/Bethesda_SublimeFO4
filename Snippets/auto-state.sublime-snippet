@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>astate</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Auto State Snippet</description>
+
+	<content><![CDATA[Auto State ${1:state}
+	${0}
+EndState]]></content>
+</snippet>

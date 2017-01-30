@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isinvulnerable</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ActorBase</description>
+
+    <content><![CDATA[IsInvulnerable()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onbegin</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event TopicInfo.OnBegin</description>
+
+    <content><![CDATA[Event OnBegin(ObjectReference akSpeakerRef, bool abHasBeenSaid)
+    ${0}
+EndEvent]]></content>
+</snippet>

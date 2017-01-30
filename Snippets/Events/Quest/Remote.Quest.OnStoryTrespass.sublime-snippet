@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorytrespass-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryTrespass</description>
+
+    <content><![CDATA[Event Quest.OnStoryTrespass(Quest akSender, ObjectReference akVictim, ObjectReference akTrespasser, Location akLocation, int aiCrime)
+    ${0}
+EndEvent]]></content>
+</snippet>

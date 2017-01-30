@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryservedtime-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryServedTime</description>
+
+    <content><![CDATA[Event Quest.OnStoryServedTime(Quest akSender, Location akLocation, Form akCrimeGroup, int aiCrimeGold, int aiDaysJail)
+    ${0}
+EndEvent]]></content>
+</snippet>

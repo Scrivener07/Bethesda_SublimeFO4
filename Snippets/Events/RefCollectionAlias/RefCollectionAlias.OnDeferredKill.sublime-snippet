@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondeferredkill-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnDeferredKill</description>
+
+    <content><![CDATA[Event OnDeferredKill(ObjectReference akSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

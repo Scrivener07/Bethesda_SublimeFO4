@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onitemequipped-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnItemEquipped</description>
+
+    <content><![CDATA[Event OnItemEquipped(ObjectReference akSender, Form akBaseObject, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

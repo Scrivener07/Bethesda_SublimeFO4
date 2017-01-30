@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>playidle</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[PlayIdle(${1:Idle akIdle})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onholotapechatter-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnHolotapeChatter</description>
+
+    <content><![CDATA[Event ObjectReference.OnHolotapeChatter(ObjectReference akSender, string astrChatter, float afNumericData )
+    ${0}
+EndEvent]]></content>
+</snippet>

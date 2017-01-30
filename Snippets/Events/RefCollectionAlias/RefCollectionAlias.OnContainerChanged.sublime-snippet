@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncontainerchanged-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnContainerChanged</description>
+
+    <content><![CDATA[Event OnContainerChanged(ObjectReference akSender, ObjectReference akNewContainer, ObjectReference akOldContainer)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onsit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnSit</description>
+
+    <content><![CDATA[Event OnSit(ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

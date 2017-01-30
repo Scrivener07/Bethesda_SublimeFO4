@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>applyhavokimpulse</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[ApplyHavokImpulse(${1:float afX}, ${2:float afY}, ${3:float afZ}, ${4:float afMagnitude})${0}]]></content>
+</snippet>

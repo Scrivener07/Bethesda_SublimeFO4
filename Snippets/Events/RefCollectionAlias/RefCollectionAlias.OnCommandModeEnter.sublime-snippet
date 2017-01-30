@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeenter-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCommandModeEnter</description>
+
+    <content><![CDATA[Event OnCommandModeEnter(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

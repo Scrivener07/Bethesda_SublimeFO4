@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryinfection-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryInfection</description>
+
+    <content><![CDATA[Event Quest.OnStoryInfection(Quest akSender, ObjectReference akTransmittingActor, Form akInfection)
+    ${0}
+EndEvent]]></content>
+</snippet>

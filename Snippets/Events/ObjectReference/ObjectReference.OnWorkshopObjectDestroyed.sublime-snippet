@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectdestroyed</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnWorkshopObjectDestroyed</description>
+
+    <content><![CDATA[Event OnWorkshopObjectDestroyed(ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

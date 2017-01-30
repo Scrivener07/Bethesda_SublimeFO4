@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getoutgoingweather</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Weather</description>
+
+    <content><![CDATA[Weather.GetOutgoingWeather()${0}]]></content>
+</snippet>

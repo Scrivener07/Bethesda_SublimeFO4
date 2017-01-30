@@ -1,0 +1,10 @@
+<!-- See http://www.sublimetext.com/docs/snippets for more information -->
+<snippet>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>If Condition Snippet</description>
+    <content><![CDATA[
+If (${1:$SELECTION})
+	${0}
+EndIf]]></content>
+</snippet>

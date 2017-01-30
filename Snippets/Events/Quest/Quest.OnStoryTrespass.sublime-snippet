@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorytrespass</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryTrespass</description>
+
+    <content><![CDATA[Event OnStoryTrespass(ObjectReference akVictim, ObjectReference akTrespasser, Location akLocation, int aiCrime)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>issneakingcontrolsenabled</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.IsSneakingControlsEnabled()${0}]]></content>
+</snippet>

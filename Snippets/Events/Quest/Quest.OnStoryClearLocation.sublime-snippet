@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryclearlocation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryClearLocation</description>
+
+    <content><![CDATA[Event OnStoryClearLocation(Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

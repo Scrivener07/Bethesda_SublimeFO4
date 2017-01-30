@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncripple-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCripple</description>
+
+    <content><![CDATA[Event OnCripple(ObjectReference akSender, ActorValue akActorValue, bool abCrippled)
+    ${0}
+EndEvent]]></content>
+</snippet>

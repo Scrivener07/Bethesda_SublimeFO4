@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isplayerslastriddenhorse</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[IsPlayersLastRiddenHorse()${0}]]></content>
+</snippet>

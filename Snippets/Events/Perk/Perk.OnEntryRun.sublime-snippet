@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onentryrun</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Perk.OnEntryRun</description>
+
+    <content><![CDATA[Event OnEntryRun(int auiEntryID, ObjectReference akTarget, Actor akOwner)
+    ${0}
+EndEvent]]></content>
+</snippet>

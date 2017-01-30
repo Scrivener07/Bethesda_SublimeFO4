@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfireweapon-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPlayerFireWeapon</description>
+
+    <content><![CDATA[Event OnPlayerFireWeapon(ObjectReference akSender, Form akBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

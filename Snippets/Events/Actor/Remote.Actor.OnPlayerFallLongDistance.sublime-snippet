@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfalllongdistance-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPlayerFallLongDistance</description>
+
+    <content><![CDATA[Event Actor.OnPlayerFallLongDistance(Actor akSender, float afDamage)
+    ${0}
+EndEvent]]></content>
+</snippet>

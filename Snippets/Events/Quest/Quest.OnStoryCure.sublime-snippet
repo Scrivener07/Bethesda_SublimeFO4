@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorycure</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryCure</description>
+
+    <content><![CDATA[Event OnStoryCure(Form akInfection)
+    ${0}
+EndEvent]]></content>
+</snippet>

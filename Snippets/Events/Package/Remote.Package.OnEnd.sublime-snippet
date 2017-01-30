@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onend-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Package.OnEnd</description>
+
+    <content><![CDATA[Event Package.OnEnd(Package akSender, Actor akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

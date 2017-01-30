@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncelldetach-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnCellDetach</description>
+
+    <content><![CDATA[Event ObjectReference.OnCellDetach(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

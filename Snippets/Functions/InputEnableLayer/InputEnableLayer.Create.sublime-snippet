@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>create</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[InputEnableLayer.Create()${0}]]></content>
+</snippet>

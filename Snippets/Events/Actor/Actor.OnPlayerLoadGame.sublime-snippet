@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerloadgame</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerLoadGame</description>
+
+    <content><![CDATA[Event OnPlayerLoadGame()
+    ${0}
+EndEvent]]></content>
+</snippet>

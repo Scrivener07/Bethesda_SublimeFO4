@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getforcedlandingmarker</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[GetForcedLandingMarker()${0}]]></content>
+</snippet>

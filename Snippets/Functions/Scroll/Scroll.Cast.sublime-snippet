@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>cast</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Scroll</description>
+
+    <content><![CDATA[Cast(${1:ObjectReference akSource}, ${2:ObjectReference akTarget = None})${0}]]></content>
+</snippet>

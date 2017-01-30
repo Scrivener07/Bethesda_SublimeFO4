@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Miscellaneous</string>
+	<key>scope</key>
+	<string>source.papyrusf4</string>
+	<key>settings</key>
+	<dict>
+		<key>decreaseIndentPattern</key>
+		<string>(?i)^\s*(endfunction|endstate|endevent|elseif|else|endif|endwhile|endproperty|endgroup|endstruct)\b</string>
+		<key>increaseIndentPattern</key>
+		<string>(?i)^\s*((\w+\s+)?function|(auto\s+)?state|event|elseif|else|if|while|\w+\s+property(?!.*\bauto(readonly)?\b))\b|group|struct</string>
+		<key>shellVariables</key>
+		<array>
+			<dict>
+				<key>name</key>
+				<string>TM_COMMENT_START</string>
+				<key>value</key>
+				<string>; </string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>TM_COMMENT_START_2</string>
+				<key>value</key>
+				<string>;/ </string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>TM_COMMENT_END_2</string>
+				<key>value</key>
+				<string> /;</string>
+			</dict>
+			<dict>
+				<key>name</key>
+				<string>TM_COMMENT_MODE_2</string>
+				<key>value</key>
+				<string>block</string>
+			</dict>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>730B68BB-E86B-4D82-A675-C3B3FDE9B7CB</string>
+</dict>
+</plist>

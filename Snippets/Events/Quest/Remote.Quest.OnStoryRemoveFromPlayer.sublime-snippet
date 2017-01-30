@@ -1,0 +1,10 @@
+<snippet>
+    <tabTrigger>onstoryremovefromplayer-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryRemoveFromPlayer</description>
+
+    <content><![CDATA[Event Quest.OnStoryRemoveFromPlayer(Quest akSender, ObjectReference akOwner, ObjectReference akItem, Location akLocation, \
+  Form akItemBase, int aiRemoveType)
+    ${0}
+EndEvent]]></content>
+</snippet>

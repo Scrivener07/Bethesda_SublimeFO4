@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorydiscoverdeadbody-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryDiscoverDeadBody</description>
+
+    <content><![CDATA[Event Quest.OnStoryDiscoverDeadBody(Quest akSender, ObjectReference akActor, ObjectReference akDeadActor, Location akLocation)
+    ${0}
+EndEvent]]></content>
+</snippet>

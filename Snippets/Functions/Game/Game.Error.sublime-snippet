@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>error</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.Error(${1:string asMessage})${0}]]></content>
+</snippet>

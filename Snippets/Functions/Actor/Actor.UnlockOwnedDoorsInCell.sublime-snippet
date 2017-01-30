@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unlockowneddoorsincell</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Actor</description>
+
+    <content><![CDATA[UnlockOwnedDoorsInCell()${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeenter</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnCommandModeEnter</description>
+
+    <content><![CDATA[Event OnCommandModeEnter()
+    ${0}
+EndEvent]]></content>
+</snippet>

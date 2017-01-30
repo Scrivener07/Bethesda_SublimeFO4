@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstoryironsights-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Quest.OnStoryIronSights</description>
+
+    <content><![CDATA[Event Quest.OnStoryIronSights(Quest akSender, ObjectReference akActor, Form akWeapon)
+    ${0}
+EndEvent]]></content>
+</snippet>

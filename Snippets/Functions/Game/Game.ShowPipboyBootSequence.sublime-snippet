@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>showpipboybootsequence</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.ShowPipboyBootSequence(${1:string asAnimationName})${0}]]></content>
+</snippet>

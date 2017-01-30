@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>enablesneaking</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[EnableSneaking(${1:abEnable = true})${0}]]></content>
+</snippet>

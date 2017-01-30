@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfireweapon</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnPlayerFireWeapon</description>
+
+    <content><![CDATA[Event OnPlayerFireWeapon(Form akBaseObject)
+    ${0}
+EndEvent]]></content>
+</snippet>

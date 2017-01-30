@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectplaced-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnWorkshopObjectPlaced</description>
+
+    <content><![CDATA[Event ObjectReference.OnWorkshopObjectPlaced(ObjectReference akSender, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

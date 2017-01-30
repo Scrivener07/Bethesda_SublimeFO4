@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ondying-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnDying</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnDying(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akKiller)
+    ${0}
+EndEvent]]></content>
+</snippet>

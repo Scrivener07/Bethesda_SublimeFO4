@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onentersneaking-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnEnterSneaking</description>
+
+    <content><![CDATA[Event Actor.OnEnterSneaking(Actor akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

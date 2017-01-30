@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>showashelpmessage</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Message</description>
+
+    <content><![CDATA[ShowAsHelpMessage(${1:string asEvent}, ${2:float afDuration}, ${3:float afInterval}, ${4:int aiMaxTimes}, ${5:string asContext=\"\"}, ${6:int aiPriority=0})${0}]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpipboyradiodetection-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnPipboyRadioDetection</description>
+
+    <content><![CDATA[Event ObjectReference.OnPipboyRadioDetection(ObjectReference akSender, bool abDetected)
+    ${0}
+EndEvent]]></content>
+</snippet>

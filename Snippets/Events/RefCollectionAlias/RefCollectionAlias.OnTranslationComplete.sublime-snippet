@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontranslationcomplete-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnTranslationComplete</description>
+
+    <content><![CDATA[Event OnTranslationComplete(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

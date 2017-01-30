@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontranslationfailed-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnTranslationFailed</description>
+
+    <content><![CDATA[Event ObjectReference.OnTranslationFailed(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

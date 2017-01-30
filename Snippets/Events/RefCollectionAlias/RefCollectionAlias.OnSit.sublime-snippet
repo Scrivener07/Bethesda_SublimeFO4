@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onsit-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnSit</description>
+
+    <content><![CDATA[Event OnSit(ObjectReference akSender, ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

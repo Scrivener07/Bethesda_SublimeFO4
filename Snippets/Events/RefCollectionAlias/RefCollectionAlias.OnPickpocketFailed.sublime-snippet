@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpickpocketfailed-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPickpocketFailed</description>
+
+    <content><![CDATA[Event OnPickpocketFailed(ObjectReference akSender)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>unregisterforallmenuopencloseevents</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ScriptObject</description>
+
+    <content><![CDATA[UnregisterForAllMenuOpenCloseEvents()${0}]]></content>
+</snippet>

@@ -1,0 +1,19 @@
+{
+	"target": "compile_papyrus_f4",
+	"cmd": "$file",
+	"file_regex": "(^.*\\.psc)\\(([0-9]*),([0-9]*)\\)",
+	"selector": "source.papyrusf4",
+	"variants":
+	[
+		{
+			"name": "PapyrusF4 - Release",
+			"target": "compile_papyrus_f4_release",
+			"cmd": "$file"
+		},
+		{
+			"name": "PapyrusF4 - Release Final",
+			"target": "compile_papyrus_f4_release_final",
+			"cmd": "$file"
+		}
+	]
+}

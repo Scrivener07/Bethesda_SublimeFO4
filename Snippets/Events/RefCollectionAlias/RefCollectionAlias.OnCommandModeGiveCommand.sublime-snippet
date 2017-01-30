@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodegivecommand-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnCommandModeGiveCommand</description>
+
+    <content><![CDATA[Event OnCommandModeGiveCommand(ObjectReference akSender, int aeCommandType, ObjectReference akTarget)
+    ${0}
+EndEvent]]></content>
+</snippet>

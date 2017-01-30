@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>haskeywordinformlist</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[HasKeywordInFormList(${1:FormList akKeywordList})${0}]]></content>
+</snippet>

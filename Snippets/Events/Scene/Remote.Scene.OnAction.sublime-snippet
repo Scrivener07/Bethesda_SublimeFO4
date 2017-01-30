@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onaction-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Scene.OnAction</description>
+
+    <content><![CDATA[Event Scene.OnAction(Scene akSender, int auiActionID, ReferenceAlias akAlias)
+    ${0}
+EndEvent]]></content>
+</snippet>

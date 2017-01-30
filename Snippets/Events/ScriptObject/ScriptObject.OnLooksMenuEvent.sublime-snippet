@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onlooksmenuevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnLooksMenuEvent</description>
+
+    <content><![CDATA[Event OnLooksMenuEvent(int aiFlavor)
+    ${0}
+EndEvent]]></content>
+</snippet>

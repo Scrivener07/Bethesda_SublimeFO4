@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onend</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Package.OnEnd</description>
+
+    <content><![CDATA[Event OnEnd(Actor akActor)
+    ${0}
+EndEvent]]></content>
+</snippet>

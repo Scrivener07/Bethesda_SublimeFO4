@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectmoved</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ObjectReference.OnWorkshopObjectMoved</description>
+
+    <content><![CDATA[Event OnWorkshopObjectMoved(ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>disableplayercontrols</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>InputEnableLayer</description>
+
+    <content><![CDATA[DisablePlayerControls(${1:bool abMovement = true}, ${2:bool abFighting = true}, ${3:bool abCamSwitch = false}, ${4:bool abLooking = false}, ${5:bool abSneaking = false}, ${6:bool abMenu = true}, ${7:bool abActivate = true}, ${8:bool abJournalTabs = false}, ${9:bool abVATS = true}, ${10:bool abFavorites = true}, ${11:bool abRunning = false})${0}]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>forcedisablessrgodraysdirlight</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Game</description>
+
+    <content><![CDATA[Game.ForceDisableSSRGodraysDirLight(${1:bool abDisableSSR}, ${2:bool abDisableGodrays}, ${3:bool abDisableDirLight})${0}]]></content>
+</snippet>

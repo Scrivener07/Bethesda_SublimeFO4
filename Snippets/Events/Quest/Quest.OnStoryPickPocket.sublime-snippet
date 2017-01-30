@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onstorypickpocket</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Quest.OnStoryPickPocket</description>
+
+    <content><![CDATA[Event OnStoryPickPocket(ObjectReference akVictim, bool abSuccess)
+    ${0}
+EndEvent]]></content>
+</snippet>

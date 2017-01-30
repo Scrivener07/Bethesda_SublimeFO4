@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncommandmodeexit</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnCommandModeExit</description>
+
+    <content><![CDATA[Event OnCommandModeExit()
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>fun</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Function Snippet</description>
+
+    <content><![CDATA[Function ${1:FunctionName}($2)
+	${0}
+EndFunction]]></content>
+</snippet>

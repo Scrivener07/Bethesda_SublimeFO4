@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectdestroyed-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnWorkshopObjectDestroyed</description>
+
+    <content><![CDATA[Event OnWorkshopObjectDestroyed(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

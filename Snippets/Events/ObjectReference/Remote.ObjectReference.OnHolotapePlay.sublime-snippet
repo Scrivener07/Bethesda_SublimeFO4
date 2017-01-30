@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onholotapeplay-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnHolotapePlay</description>
+
+    <content><![CDATA[Event ObjectReference.OnHolotapePlay(ObjectReference akSender, ObjectReference akTerminalRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

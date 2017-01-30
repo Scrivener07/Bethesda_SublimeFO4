@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>movetomyeditorlocation</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[MoveToMyEditorLocation()${0}]]></content>
+</snippet>

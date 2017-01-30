@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onpartialcripple-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote Actor.OnPartialCripple</description>
+
+    <content><![CDATA[Event Actor.OnPartialCripple(Actor akSender, ActorValue akActorValue, bool abCrippled)
+    ${0}
+EndEvent]]></content>
+</snippet>

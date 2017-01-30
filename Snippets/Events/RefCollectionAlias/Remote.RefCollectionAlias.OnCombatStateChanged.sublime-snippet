@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>oncombatstatechanged-RC-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote RefCollectionAlias.OnCombatStateChanged</description>
+
+    <content><![CDATA[Event RefCollectionAlias.OnCombatStateChanged(RefCollectionAlias akAliasSender, ObjectReference akRefSender, Actor akTarget, int aeCombatState)
+    ${0}
+EndEvent]]></content>
+</snippet>

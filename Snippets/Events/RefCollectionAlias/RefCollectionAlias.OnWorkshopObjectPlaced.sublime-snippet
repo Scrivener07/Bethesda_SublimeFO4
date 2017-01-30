@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onworkshopobjectplaced-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnWorkshopObjectPlaced</description>
+
+    <content><![CDATA[Event OnWorkshopObjectPlaced(ObjectReference akSender, ObjectReference akReference)
+    ${0}
+EndEvent]]></content>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ongetup</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event Actor.OnGetUp</description>
+
+    <content><![CDATA[Event OnGetUp(ObjectReference akFurniture)
+    ${0}
+EndEvent]]></content>
+</snippet>

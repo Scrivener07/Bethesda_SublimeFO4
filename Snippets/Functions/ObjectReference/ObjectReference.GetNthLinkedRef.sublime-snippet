@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getnthlinkedref</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[GetNthLinkedRef(${1:int aiLinkedRef}, ${2:Keyword apKeyword = None})${0}]]></content>
+</snippet>

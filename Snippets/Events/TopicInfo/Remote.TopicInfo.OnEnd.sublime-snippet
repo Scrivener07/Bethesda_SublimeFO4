@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onend-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote TopicInfo.OnEnd</description>
+
+    <content><![CDATA[Event TopicInfo.OnEnd(TopicInfo akSender, ObjectReference akSpeakerRef, bool abHasBeenSaid)
+    ${0}
+EndEvent]]></content>
+</snippet>

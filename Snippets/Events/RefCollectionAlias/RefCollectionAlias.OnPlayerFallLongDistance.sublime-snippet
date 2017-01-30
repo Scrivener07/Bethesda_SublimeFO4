@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>onplayerfalllongdistance-RC</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event RefCollectionAlias.OnPlayerFallLongDistance</description>
+
+    <content><![CDATA[Event OnPlayerFallLongDistance(ObjectReference akSender, float afDamage)
+    ${0}
+EndEvent]]></content>
+</snippet>

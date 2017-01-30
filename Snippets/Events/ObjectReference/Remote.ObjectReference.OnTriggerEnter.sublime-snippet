@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontriggerenter-REM</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Remote ObjectReference.OnTriggerEnter</description>
+
+    <content><![CDATA[Event ObjectReference.OnTriggerEnter(ObjectReference akSender, ObjectReference akActionRef)
+    ${0}
+EndEvent]]></content>
+</snippet>

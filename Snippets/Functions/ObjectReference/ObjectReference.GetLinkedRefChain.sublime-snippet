@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getlinkedrefchain</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[GetLinkedRefChain(${1:keyword apKeyword = None}, ${2:int iMaxExpectedLinkedRefs = 100})${0}]]></content>
+</snippet>

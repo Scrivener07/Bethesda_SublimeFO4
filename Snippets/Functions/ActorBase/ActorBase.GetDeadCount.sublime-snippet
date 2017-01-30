@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getdeadcount</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ActorBase</description>
+
+    <content><![CDATA[GetDeadCount()${0}]]></content>
+</snippet>

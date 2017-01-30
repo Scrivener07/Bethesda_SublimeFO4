@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>removeitembycomponent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[RemoveItemByComponent(${1:Form akComponentToRemove}, ${2:int aiCount = 1}, ${3:bool abSilent = false}, ${4:ObjectReference akOtherContainer = None})${0}]]></content>
+</snippet>

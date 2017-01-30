@@ -1,0 +1,9 @@
+<snippet>
+    <tabTrigger>ontrackedstatsevent</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Event ScriptObject.OnTrackedStatsEvent</description>
+
+    <content><![CDATA[Event OnTrackedStatsEvent(string asStat, int aiStatValue)
+    ${0}
+EndEvent]]></content>
+</snippet>

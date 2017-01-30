@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>playerknows</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>Form</description>
+
+    <content><![CDATA[PlayerKnows()${0}]]></content>
+</snippet>

@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>isactivationblocked</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>ObjectReference</description>
+
+    <content><![CDATA[IsActivationBlocked()${0}]]></content>
+</snippet>
