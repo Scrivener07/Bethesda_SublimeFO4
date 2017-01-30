@@ -1,0 +1,7 @@
+<snippet>
+    <tabTrigger>getobjectcomponentcount</tabTrigger>
+    <scope>source.papyrusf4</scope>
+    <description>MiscObject</description>
+
+    <content><![CDATA[GetObjectComponentCount(${1:Component akComponent})${0}]]></content>
+</snippet>

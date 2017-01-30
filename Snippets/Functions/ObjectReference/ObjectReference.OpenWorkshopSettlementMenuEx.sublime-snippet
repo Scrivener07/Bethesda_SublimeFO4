@@ -3,5 +3,5 @@
     <scope>source.papyrusf4</scope>
     <description>ObjectReference</description>
 
-    <content><![CDATA[OpenWorkshopSettlementMenuEx(${1:Keyword akActionKW}, ${2:Message astrConfirm = None}, ${3:Location aLocToHighlight = None}, ${4:Keyword akFilterKeyword = None})${0}]]></content>
+    <content><![CDATA[OpenWorkshopSettlementMenuEx(${1:Keyword akActionKW}, ${2:Message astrConfirm = None}, ${3:Location aLocToHighlight = None}, ${4:FormList akIncludeKeywordList = None}, ${5:FormList akExcludeKeywordList = None}, ${6:bool abExcludeZeroPopulation = false}, ${7:bool abOnlyOwnedWorkshops= true}, ${8:bool abTurnOffHeader= false}, ${9:bool abOnlyPotentialVassalSettlements= false})${0}]]></content>
 </snippet>

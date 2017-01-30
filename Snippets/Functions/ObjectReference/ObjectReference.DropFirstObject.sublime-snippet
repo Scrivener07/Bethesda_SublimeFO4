@@ -3,5 +3,5 @@
     <scope>source.papyrusf4</scope>
     <description>ObjectReference</description>
 
-    <content><![CDATA[DropFirstObject()${0}]]></content>
+    <content><![CDATA[DropFirstObject(${1:bool abInitiallyDisabled=false})${0}]]></content>
 </snippet>
