@@ -22,4 +22,4 @@ default INI file" from the command palette (brought up with Ctrl-Shift-P).
 the output folder specified by the ini, where they will be by default)
 
 All files in this package are under copyright and the license documented in
-the accompanying LICENSE.txt file.
+the accompanying [LICENSE](LICENSE) file.
