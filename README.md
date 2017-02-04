@@ -4,7 +4,7 @@ http://www.creationkit.com/fallout4/index.php?title=Sublime_Text
 A package for working with Papyrus files, used in Fallout 4 for scripting game
 behavior.
 
-For information about using Papyrus, check the [creation kit wiki](http://www.creationkit.com/Category:Papyrus).
+For information about using Papyrus, check the [creation kit wiki](http://www.creationkit.com/fallout4/index.php?title=Category:Papyrus).
 
 
 This package can handle compiling source files (.psc), disassembling bytecode
