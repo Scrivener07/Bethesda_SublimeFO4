@@ -1,5 +1,5 @@
 # Bethesda's Sublime Text extension for Fallout 4
-http://www.creationkit.com/fallout4/index.php?title=Sublime_Text
+[Documentation](http://www.creationkit.com/fallout4/index.php?title=Sublime_Text)
 
 A package for working with Papyrus files, used in Fallout 4 for scripting game
 behavior.
